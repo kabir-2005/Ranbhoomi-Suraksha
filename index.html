@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ranbhoomi Suraksha</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e9ecef;
+            color: #343a40;
+        }
+        header {
+            background-color: #343a40;
+            color: #f8f9fa;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .header-content {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 10px;
+        }
+        .saffron {
+            background-color: #FF9933;
+            height: 10px;
+            flex: 1;
+        }
+        .white {
+            flex: 1;
+            text-align: center;
+        }
+        .green {
+            background-color: #138808;
+            height: 10px;
+            flex: 1;
+        }
+        .white h1 {
+            font-size: 2.5rem;
+            font-weight: 300;
+            margin: 0;
+            color: #f8f9fa;
+        }
+        nav {
+            background-color: #495057;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #f8f9fa;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 1.1rem;
+            transition: color 0.3s;
+        }
+        nav a:hover {
+            color: #FFC107;
+        }
+        .subheader-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-wrap: wrap;
+            margin: 20px auto;
+            gap: 20px;
+        }
+
+        .subheader,
+        .subheader-small,
+        .weather-subheader {
+            font-family: 'Roboto', sans-serif;
+            color: #fff;
+            font-size: 0.75em; 
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            text-align: center;
+        }
+
+        .subheader-small,
+        .weather-subheader {
+            font-size: 0.75em; 
+        }
+
+        .subheader-small {
+            background-color: #e67e22;
+            padding: 10px 20px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+        }
+
+        .subheader-small:hover {
+            background-color: #f39c12;
+            transform: translateY(-2px);
+        }
+
+        .weather-subheader {
+            background-color: #e67e22;
+            padding: 10px 20px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.3s ease;
+        }
+
+        .weather-subheader:hover {
+            background-color: #f39c12;
+            transform: translateY(-2px);
+        }
+
+        .subheader {
+            background-color: rgba(44, 62, 80, 0.8);
+            padding: 15px;
+            max-width: 600px;
+        }
+
+        .subheader a {
+            color: #FFD700;
+            text-decoration: none;
+            font-weight: bold;
+            transition: color 0.3s ease;
+        }
+
+        .subheader a:hover {
+            color: #fff;
+        }
+
+        .logo,
+        .instagram-logo {
+            height: 80px; 
+            width: auto; 
+            display: flex;
+            align-items: center;
+        }
+
+        .slider {
+            position: relative;
+            width: 70%; 
+            padding-bottom: 33%; 
+            margin: 30px auto;
+            overflow: hidden;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            background-color: rgba(0, 0, 0, 0.2);
+        }
+
+        .slider img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%; 
+            object-fit: cover;
+        }
+
+        .slider .slides {
+            display: flex;
+            transition: transform 0.5s ease-in-out;
+            width: 100%;
+        }
+
+        .prev,
+        .next {
+            cursor: pointer;
+            position: absolute;
+            top: 50%;
+            transform: translateY(-50%);
+            width: auto;
+            padding: 16px;
+            color: #fff;
+            font-weight: bold;
+            font-size: 24px;
+            user-select: none;
+            background-color: rgba(0, 0, 0, 0.5);
+            border-radius: 50%;
+        }
+
+        .next {
+            right: 20px;
+        }
+
+        .prev {
+            left: 20px;
+        }
+
+        .prev:hover,
+        .next:hover {
+            background-color: rgba(0, 0, 0, 0.8);
+        }
+
+        .dots {
+            text-align: center;
+            padding: 10px;
+            background-color: rgba(0, 0, 0, 0.5);
+            border-radius: 10px;
+            margin-top: -20px;
+        }
+
+        .dot {
+            cursor: pointer;
+            height: 15px;
+            width: 15px;
+            margin: 0 5px;
+            background-color: #bbb;
+            border-radius: 50%;
+            display: inline-block;
+            transition: background-color 0.6s ease;
+        }
+
+        .active {
+            background-color: #717171;
+        }
+
+        .emergency-contact {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            background-color: #c0392b;
+            padding: 10px 0;
+            text-align: center;
+            color: #ecf0f1;
+            font-size: 0.9em;
+            box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.5);
+        }
+        .nav-search{
+            display: flex;
+            justify-content: space-evenly;
+            border-radius: 4px;
+            width: 600px;
+            height: 40px;
+            background-color: orange;}
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <div class="header-content">
+            <div class="saffron"></div>
+            <div class="white">
+                <h1>
+                    <span class="uppercase">R</span>anbhoomi <span class="uppercase">S</span>uraksha
+                </h1>
+            </div>
+            <div class="green"></div>
+        </div>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="disasters.html">Disaster Updates</a>
+            <a href="contact.html">Contact</a>
+            <a href ="emergency.html">Emergency Reports</a>
+        </nav>
+        <div class="nav-search">
+            <input placeholder="Search" class="search-input">
+            <div class="search-icon">
+                 <i class="fa-solid fa-magnifying-glass"></i>
+            </div>
+  
+    </header>
+
+    <div class="subheader-container">
+        <div class="weather-subheader">
+            <a href="https://city.imd.gov.in/citywx/localwx.php" target="_blank">Weather</a>
+        </div>
+        <div class="subheader-small" onclick="openLinks()">
+            <h2>Bharat Ka Suraksha</h2>
+        </div>
+        <img src="https://upload.wikimedia.org/wikipedia/en/6/6b/National_Disaster_Management_Authority_Logo.png" class="logo" alt="India Logo">
+        <div class="subheader">
+            <h2><a href="https://pmnrf.gov.in/en/" target="_blank">Support Us in Our Mission</a></h2>
+        </div>
+        <a href="https://www.instagram.com/ndrfindia/?hl=en" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" class="instagram-logo" alt="Instagram Logo">
+        </a>
+    </div>
+
+    <div class="slider">
+        <div class="slides">
+            <div class="slide">
+                <img src="https://d3lzcn6mbbadaf.cloudfront.net/media/details/ANI-20240119101639.jpg" alt="NDRF Rescue 1">
+            </div>
+            
+            <div class="slide">
+                <img src="https://kalingatv.com/wp-content/uploads/2024/07/NDRF-Rescues-.jpg" alt="NDRF Rescue 3">
+            </div>
+            <div class="slide">
+                <img src="https://img.etimg.com/thumb/width-1600,height-900,imgsize-289470,resizemode-75,msid-100764856/news/india/odisha-train-accident-ndrf-ends-rescue-operation-withdraws-all-9-teams.jpg" alt="NDRF Rescue 4">
+            </div>
+            <div class="slide">
+                <img src="https://www.happiesthealth.com/wp-content/uploads/2024/07/Waynad-Floods-Article2.webp" alt="Waynad Floods">
+            </div>
+            <div class="slide">
+                <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202407/wayanad-visual-explainer-how-landslide-triggered-mud-wall-swept-villages-312238722-16x9_0.jpg?VersionId=WL912oKi2t_sT.kgdx7M5yDu4NTsPHhb?size=1280:720" alt="Wayanad Landslide">
+            </div>
+            <div class="slide">
+                <img src="https://media.assettype.com/outlookindia/import/uploadimage/library/16_9/16_9_5/IMAGE_1676728575.webp?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100" alt="Emergency Response">
+            </div>
+            <div class="slide">
+                <img src="https://th-i.thgim.com/public/incoming/2jsclf/article68022896.ece/alternates/LANDSCAPE_1200/0J3A8254.jpg" alt="Emergency Response Update">
+            </div>
+            <div class="slide">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Manmohan_Singh_addressing_at_the_9th_Formation_Day_of_National_Disaster_Management_Authority_%28NDMA%29%2C_in_New_Delhi._The_Union_Home_Minister%2C_Shri_Sushilkumar_Shinde%2C_the_Minister_of_State_for_Home_Affairs.jpg" alt="NDMA Formation Day">
+            </div>
+        </div>
+        <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+        <a class="next" onclick="plusSlides(1)">&#10095;</a>
+        <div class="dots">
+            <span class="dot" onclick="currentSlide(1)"></span>
+            <span class="dot" onclick="currentSlide(2)"></span>
+            <span class="dot" onclick="currentSlide(3)"></span>
+            <span class="dot" onclick="currentSlide(4)"></span>
+            <span class="dot" onclick="currentSlide(5)"></span>
+            <span class="dot" onclick="currentSlide(6)"></span>
+            <span class="dot" onclick="currentSlide(7)"></span>
+            <span class="dot" onclick="currentSlide(8)"></span>
+            <span class="dot" onclick="currentSlide(9)"></span>
+        </div>
+    </div>
+
+    <div class="emergency-contact">
+        <p>Emergency Contact: 112 | National Disaster Management Authority Helpline: +91-11-26701728</p>
+    </div>
+
+    <script>
+        let slideIndex = 1;
+        showSlides(slideIndex);
+
+        function plusSlides(n) {
+            showSlides(slideIndex += n);
+        }
+
+        function currentSlide(n) {
+            showSlides(slideIndex = n);
+        }
+
+        function showSlides(n) {
+            let i;
+            let slides = document.getElementsByClassName("slide");
+            let dots = document.getElementsByClassName("dot");
+            if (n > slides.length) {
+                slideIndex = 1
+            }
+            if (n < 1) {
+                slideIndex = slides.length
+            }
+            for (i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            for (i = 0; i < dots.length; i++) {
+                dots[i].className = dots[i].className.replace(" active", "");
+            }
+            slides[slideIndex - 1].style.display = "block";
+            dots[slideIndex - 1].className += " active";
+        }
+
+        function openLinks() {
+            const urls = [
+                "https://mod.gov.in/dod/ndma",
+                "https://www.ndma.gov.in/",
+                "https://ncrmp.gov.in/",
+                "https://dmd.ndma.gov.in/"
+            ];
+            urls.forEach(url => {
+                window.open(url, '_blank');
+            });
+        }
+    </script>
+
+</body>
+
+</html>

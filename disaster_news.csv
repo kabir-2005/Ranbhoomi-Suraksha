@@ -1,0 +1,1001 @@
+Timestamp,Location,Type of Disaster,Main Headline
+45:01.7,Delhi,Cold wave,Authorities respond to Cold wave in Delhi
+45:34.9,Ahmedabad,Landslide,Authorities respond to Landslide in Ahmedabad
+00:41.8,Patna,Landslide,Landslide in Patna leaves thousands homeless
+37:46.4,Lucknow,Drought,Drought in Lucknow leaves thousands homeless
+25:28.0,Patna,Earthquake,"Earthquake wreaks havoc in Patna, rescue efforts underway"
+55:48.7,Indore,Cyclone,"Cyclone hits Indore, causing widespread damage"
+46:53.3,Pune,Pandemic,"Pandemic hits Pune, causing widespread damage"
+40:04.7,Chennai,Earthquake,Authorities respond to Earthquake in Chennai
+09:30.7,Lucknow,Landslide,Landslide in Lucknow leaves thousands homeless
+25:30.8,Nagpur,Tsunami,"Nagpur battles Tsunami, hundreds affected"
+52:33.0,Delhi,Drought,Drought in Delhi leaves thousands homeless
+29:04.0,Mumbai,Drought,Drought in Mumbai leaves thousands homeless
+11:12.6,Mumbai,Tsunami,Authorities respond to Tsunami in Mumbai
+56:10.8,Nagpur,Cold wave,Authorities respond to Cold wave in Nagpur
+38:03.0,Mumbai,Drought,Authorities respond to Drought in Mumbai
+52:29.7,Patna,Drought,"Patna battles Drought, hundreds affected"
+04:36.9,Jaipur,Heatwave,"Heatwave wreaks havoc in Jaipur, rescue efforts underway"
+27:11.3,Delhi,Industrial Accident,"Delhi battles Industrial Accident, hundreds affected"
+03:38.5,Nagpur,Cyclone,Authorities respond to Cyclone in Nagpur
+10:02.5,Kolkata,Tsunami,Tsunami in Kolkata leaves thousands homeless
+17:59.1,Pune,Flood,"Pune battles Flood, hundreds affected"
+20:23.5,Indore,Pandemic,"Indore battles Pandemic, hundreds affected"
+12:19.6,Indore,Flood,"Flood wreaks havoc in Indore, rescue efforts underway"
+29:02.5,Bangalore,Cyclone,"Bangalore battles Cyclone, hundreds affected"
+30:01.8,Jaipur,Cold wave,"Cold wave hits Jaipur, causing widespread damage"
+57:26.8,Hyderabad,Earthquake,Earthquake in Hyderabad leaves thousands homeless
+40:28.9,Nagpur,Industrial Accident,Authorities respond to Industrial Accident in Nagpur
+21:10.1,Pune,Cyclone,"Pune battles Cyclone, hundreds affected"
+09:23.0,Delhi,Drought,"Delhi battles Drought, hundreds affected"
+52:43.1,Lucknow,Landslide,Authorities respond to Landslide in Lucknow
+43:17.0,Patna,Pandemic,Authorities respond to Pandemic in Patna
+51:52.2,Delhi,Cyclone,Authorities respond to Cyclone in Delhi
+41:59.6,Pune,Cold wave,Authorities respond to Cold wave in Pune
+55:46.1,Mumbai,Heatwave,"Heatwave wreaks havoc in Mumbai, rescue efforts underway"
+44:48.7,Bangalore,Flood,"Flood hits Bangalore, causing widespread damage"
+22:41.9,Delhi,Heatwave,"Heatwave hits Delhi, causing widespread damage"
+51:02.6,Mumbai,Tsunami,"Mumbai battles Tsunami, hundreds affected"
+36:25.0,Bangalore,Pandemic,Authorities respond to Pandemic in Bangalore
+11:36.3,Kolkata,Heatwave,Heatwave in Kolkata leaves thousands homeless
+56:25.7,Hyderabad,Landslide,"Landslide wreaks havoc in Hyderabad, rescue efforts underway"
+12:58.9,Kolkata,Flood,Authorities respond to Flood in Kolkata
+03:14.9,Patna,Heatwave,"Patna battles Heatwave, hundreds affected"
+02:23.5,Nagpur,Wildfire,"Wildfire wreaks havoc in Nagpur, rescue efforts underway"
+21:16.3,Indore,Cold wave,Authorities respond to Cold wave in Indore
+36:34.1,Jaipur,Tsunami,"Jaipur battles Tsunami, hundreds affected"
+36:52.6,Mumbai,Heatwave,"Heatwave hits Mumbai, causing widespread damage"
+43:20.4,Mumbai,Heatwave,Heatwave in Mumbai leaves thousands homeless
+12:59.1,Lucknow,Landslide,"Landslide hits Lucknow, causing widespread damage"
+40:41.5,Indore,Earthquake,"Earthquake wreaks havoc in Indore, rescue efforts underway"
+45:42.8,Lucknow,Wildfire,"Wildfire hits Lucknow, causing widespread damage"
+08:52.3,Lucknow,Drought,"Drought hits Lucknow, causing widespread damage"
+04:53.3,Indore,Flood,"Flood hits Indore, causing widespread damage"
+15:11.5,Hyderabad,Landslide,"Hyderabad battles Landslide, hundreds affected"
+41:17.5,Nagpur,Landslide,"Nagpur battles Landslide, hundreds affected"
+36:41.1,Indore,Earthquake,"Earthquake hits Indore, causing widespread damage"
+07:14.8,Chennai,Wildfire,"Wildfire wreaks havoc in Chennai, rescue efforts underway"
+24:44.8,Hyderabad,Tsunami,"Tsunami wreaks havoc in Hyderabad, rescue efforts underway"
+35:02.4,Hyderabad,Earthquake,"Hyderabad battles Earthquake, hundreds affected"
+07:19.5,Indore,Cold wave,"Cold wave wreaks havoc in Indore, rescue efforts underway"
+58:24.3,Bangalore,Landslide,Authorities respond to Landslide in Bangalore
+23:50.3,Kolkata,Drought,Drought in Kolkata leaves thousands homeless
+06:33.5,Ahmedabad,Cyclone,"Cyclone wreaks havoc in Ahmedabad, rescue efforts underway"
+14:59.0,Bangalore,Industrial Accident,"Industrial Accident hits Bangalore, causing widespread damage"
+25:07.3,Hyderabad,Earthquake,"Hyderabad battles Earthquake, hundreds affected"
+40:10.8,Jaipur,Flood,"Jaipur battles Flood, hundreds affected"
+00:07.8,Hyderabad,Pandemic,"Hyderabad battles Pandemic, hundreds affected"
+51:56.9,Bangalore,Pandemic,Pandemic in Bangalore leaves thousands homeless
+45:44.2,Lucknow,Pandemic,"Pandemic hits Lucknow, causing widespread damage"
+23:46.0,Ahmedabad,Drought,"Ahmedabad battles Drought, hundreds affected"
+23:05.4,Lucknow,Earthquake,"Lucknow battles Earthquake, hundreds affected"
+43:08.1,Ahmedabad,Drought,"Drought hits Ahmedabad, causing widespread damage"
+56:21.0,Delhi,Industrial Accident,"Industrial Accident wreaks havoc in Delhi, rescue efforts underway"
+31:40.2,Hyderabad,Pandemic,"Pandemic hits Hyderabad, causing widespread damage"
+56:48.0,Hyderabad,Landslide,"Hyderabad battles Landslide, hundreds affected"
+33:34.9,Jaipur,Wildfire,"Wildfire hits Jaipur, causing widespread damage"
+08:55.3,Delhi,Pandemic,"Pandemic wreaks havoc in Delhi, rescue efforts underway"
+59:22.0,Chennai,Heatwave,Authorities respond to Heatwave in Chennai
+19:28.3,Indore,Wildfire,"Indore battles Wildfire, hundreds affected"
+36:18.4,Patna,Wildfire,"Wildfire hits Patna, causing widespread damage"
+15:27.7,Ahmedabad,Industrial Accident,"Ahmedabad battles Industrial Accident, hundreds affected"
+12:31.7,Kolkata,Earthquake,"Earthquake hits Kolkata, causing widespread damage"
+53:45.5,Indore,Flood,"Flood hits Indore, causing widespread damage"
+07:22.8,Pune,Earthquake,Earthquake in Pune leaves thousands homeless
+48:11.9,Ahmedabad,Pandemic,"Pandemic hits Ahmedabad, causing widespread damage"
+39:27.4,Lucknow,Tsunami,"Tsunami hits Lucknow, causing widespread damage"
+14:43.2,Mumbai,Cold wave,"Mumbai battles Cold wave, hundreds affected"
+15:04.0,Patna,Pandemic,"Pandemic hits Patna, causing widespread damage"
+51:47.0,Nagpur,Drought,Authorities respond to Drought in Nagpur
+16:04.0,Kolkata,Heatwave,Heatwave in Kolkata leaves thousands homeless
+13:09.3,Chennai,Cyclone,"Cyclone wreaks havoc in Chennai, rescue efforts underway"
+56:11.5,Nagpur,Tsunami,Tsunami in Nagpur leaves thousands homeless
+56:32.1,Mumbai,Drought,Drought in Mumbai leaves thousands homeless
+38:49.8,Kolkata,Wildfire,"Kolkata battles Wildfire, hundreds affected"
+05:12.5,Lucknow,Landslide,"Lucknow battles Landslide, hundreds affected"
+50:32.2,Ahmedabad,Tsunami,Tsunami in Ahmedabad leaves thousands homeless
+59:49.5,Chennai,Cyclone,Authorities respond to Cyclone in Chennai
+33:49.0,Kolkata,Earthquake,Earthquake in Kolkata leaves thousands homeless
+40:01.9,Pune,Cold wave,Authorities respond to Cold wave in Pune
+32:00.8,Jaipur,Industrial Accident,"Industrial Accident wreaks havoc in Jaipur, rescue efforts underway"
+18:41.3,Indore,Cold wave,Cold wave in Indore leaves thousands homeless
+56:23.1,Delhi,Tsunami,Tsunami in Delhi leaves thousands homeless
+43:37.5,Nagpur,Wildfire,Authorities respond to Wildfire in Nagpur
+17:52.3,Mumbai,Wildfire,"Wildfire hits Mumbai, causing widespread damage"
+07:02.9,Nagpur,Cold wave,Cold wave in Nagpur leaves thousands homeless
+32:39.0,Indore,Landslide,"Landslide hits Indore, causing widespread damage"
+21:39.5,Delhi,Flood,Flood in Delhi leaves thousands homeless
+42:16.7,Bangalore,Cold wave,"Cold wave hits Bangalore, causing widespread damage"
+52:23.4,Delhi,Pandemic,"Pandemic hits Delhi, causing widespread damage"
+33:14.9,Mumbai,Earthquake,"Earthquake wreaks havoc in Mumbai, rescue efforts underway"
+49:13.2,Mumbai,Drought,"Mumbai battles Drought, hundreds affected"
+38:56.5,Hyderabad,Pandemic,Pandemic in Hyderabad leaves thousands homeless
+22:37.4,Chennai,Cyclone,"Chennai battles Cyclone, hundreds affected"
+29:15.9,Jaipur,Earthquake,Earthquake in Jaipur leaves thousands homeless
+12:19.4,Pune,Cyclone,"Cyclone wreaks havoc in Pune, rescue efforts underway"
+14:14.7,Indore,Landslide,"Landslide hits Indore, causing widespread damage"
+36:37.3,Indore,Industrial Accident,"Indore battles Industrial Accident, hundreds affected"
+13:19.9,Bangalore,Cold wave,"Bangalore battles Cold wave, hundreds affected"
+30:26.4,Ahmedabad,Industrial Accident,Industrial Accident in Ahmedabad leaves thousands homeless
+20:33.2,Lucknow,Flood,"Flood wreaks havoc in Lucknow, rescue efforts underway"
+17:01.8,Pune,Earthquake,Authorities respond to Earthquake in Pune
+42:26.8,Hyderabad,Cyclone,"Cyclone hits Hyderabad, causing widespread damage"
+53:58.1,Pune,Earthquake,"Earthquake hits Pune, causing widespread damage"
+33:14.2,Bangalore,Wildfire,"Wildfire wreaks havoc in Bangalore, rescue efforts underway"
+05:30.8,Pune,Landslide,Landslide in Pune leaves thousands homeless
+57:11.5,Indore,Earthquake,"Earthquake wreaks havoc in Indore, rescue efforts underway"
+53:55.4,Mumbai,Cold wave,"Cold wave wreaks havoc in Mumbai, rescue efforts underway"
+21:38.2,Nagpur,Industrial Accident,Industrial Accident in Nagpur leaves thousands homeless
+42:37.1,Mumbai,Landslide,"Landslide hits Mumbai, causing widespread damage"
+39:00.7,Nagpur,Tsunami,Tsunami in Nagpur leaves thousands homeless
+57:29.5,Indore,Drought,"Indore battles Drought, hundreds affected"
+10:35.4,Hyderabad,Wildfire,Wildfire in Hyderabad leaves thousands homeless
+15:26.5,Pune,Heatwave,Heatwave in Pune leaves thousands homeless
+39:54.0,Chennai,Drought,Authorities respond to Drought in Chennai
+07:28.5,Nagpur,Flood,"Flood wreaks havoc in Nagpur, rescue efforts underway"
+40:36.7,Ahmedabad,Drought,Authorities respond to Drought in Ahmedabad
+45:13.3,Ahmedabad,Pandemic,"Pandemic wreaks havoc in Ahmedabad, rescue efforts underway"
+50:59.5,Kolkata,Wildfire,"Kolkata battles Wildfire, hundreds affected"
+58:20.3,Chennai,Pandemic,Authorities respond to Pandemic in Chennai
+30:58.6,Ahmedabad,Heatwave,"Heatwave hits Ahmedabad, causing widespread damage"
+26:31.6,Ahmedabad,Landslide,"Ahmedabad battles Landslide, hundreds affected"
+41:25.4,Bangalore,Drought,Drought in Bangalore leaves thousands homeless
+28:12.9,Jaipur,Cyclone,"Cyclone wreaks havoc in Jaipur, rescue efforts underway"
+58:16.9,Ahmedabad,Cold wave,Authorities respond to Cold wave in Ahmedabad
+27:39.4,Delhi,Pandemic,"Delhi battles Pandemic, hundreds affected"
+16:09.8,Nagpur,Wildfire,"Wildfire hits Nagpur, causing widespread damage"
+58:02.3,Lucknow,Landslide,"Landslide hits Lucknow, causing widespread damage"
+01:18.8,Nagpur,Cyclone,Authorities respond to Cyclone in Nagpur
+29:49.6,Delhi,Pandemic,"Pandemic wreaks havoc in Delhi, rescue efforts underway"
+35:27.1,Kolkata,Drought,"Drought hits Kolkata, causing widespread damage"
+36:33.6,Nagpur,Cyclone,"Cyclone hits Nagpur, causing widespread damage"
+07:00.9,Chennai,Drought,"Drought hits Chennai, causing widespread damage"
+03:07.0,Mumbai,Wildfire,Wildfire in Mumbai leaves thousands homeless
+52:05.0,Kolkata,Industrial Accident,"Industrial Accident hits Kolkata, causing widespread damage"
+34:54.7,Ahmedabad,Earthquake,Earthquake in Ahmedabad leaves thousands homeless
+05:18.5,Indore,Wildfire,"Wildfire wreaks havoc in Indore, rescue efforts underway"
+20:15.2,Chennai,Landslide,"Chennai battles Landslide, hundreds affected"
+11:29.1,Jaipur,Heatwave,"Heatwave wreaks havoc in Jaipur, rescue efforts underway"
+45:07.4,Bangalore,Heatwave,Heatwave in Bangalore leaves thousands homeless
+16:53.6,Mumbai,Cold wave,"Cold wave wreaks havoc in Mumbai, rescue efforts underway"
+42:06.9,Nagpur,Landslide,Landslide in Nagpur leaves thousands homeless
+15:37.4,Pune,Drought,Authorities respond to Drought in Pune
+46:07.9,Ahmedabad,Flood,"Flood wreaks havoc in Ahmedabad, rescue efforts underway"
+34:55.6,Hyderabad,Flood,"Flood hits Hyderabad, causing widespread damage"
+38:58.4,Delhi,Landslide,"Delhi battles Landslide, hundreds affected"
+48:20.9,Patna,Earthquake,"Earthquake hits Patna, causing widespread damage"
+36:06.8,Bangalore,Tsunami,"Tsunami wreaks havoc in Bangalore, rescue efforts underway"
+55:40.3,Bangalore,Earthquake,"Bangalore battles Earthquake, hundreds affected"
+49:21.7,Delhi,Cold wave,"Cold wave wreaks havoc in Delhi, rescue efforts underway"
+22:53.4,Jaipur,Cold wave,Authorities respond to Cold wave in Jaipur
+48:22.0,Indore,Earthquake,"Indore battles Earthquake, hundreds affected"
+05:26.7,Nagpur,Landslide,Landslide in Nagpur leaves thousands homeless
+26:25.6,Jaipur,Pandemic,"Jaipur battles Pandemic, hundreds affected"
+21:11.2,Chennai,Landslide,Landslide in Chennai leaves thousands homeless
+44:53.1,Kolkata,Landslide,"Landslide hits Kolkata, causing widespread damage"
+43:12.4,Pune,Cyclone,Authorities respond to Cyclone in Pune
+02:03.3,Hyderabad,Drought,"Hyderabad battles Drought, hundreds affected"
+58:08.7,Nagpur,Pandemic,"Nagpur battles Pandemic, hundreds affected"
+49:24.2,Bangalore,Heatwave,"Bangalore battles Heatwave, hundreds affected"
+43:40.4,Jaipur,Flood,"Flood hits Jaipur, causing widespread damage"
+16:29.0,Jaipur,Wildfire,"Wildfire wreaks havoc in Jaipur, rescue efforts underway"
+21:22.9,Kolkata,Tsunami,Tsunami in Kolkata leaves thousands homeless
+47:55.9,Hyderabad,Cold wave,Cold wave in Hyderabad leaves thousands homeless
+03:39.2,Jaipur,Landslide,"Landslide hits Jaipur, causing widespread damage"
+09:53.5,Delhi,Flood,"Flood wreaks havoc in Delhi, rescue efforts underway"
+26:04.9,Mumbai,Wildfire,"Mumbai battles Wildfire, hundreds affected"
+37:48.2,Mumbai,Wildfire,"Wildfire hits Mumbai, causing widespread damage"
+33:39.6,Pune,Pandemic,"Pandemic hits Pune, causing widespread damage"
+59:02.0,Jaipur,Industrial Accident,Authorities respond to Industrial Accident in Jaipur
+23:25.0,Indore,Landslide,"Landslide hits Indore, causing widespread damage"
+26:53.2,Chennai,Earthquake,Authorities respond to Earthquake in Chennai
+07:49.2,Mumbai,Industrial Accident,Authorities respond to Industrial Accident in Mumbai
+20:53.9,Ahmedabad,Heatwave,"Ahmedabad battles Heatwave, hundreds affected"
+13:57.1,Kolkata,Cyclone,"Cyclone hits Kolkata, causing widespread damage"
+40:34.0,Mumbai,Earthquake,Earthquake in Mumbai leaves thousands homeless
+30:19.4,Hyderabad,Wildfire,"Hyderabad battles Wildfire, hundreds affected"
+55:33.2,Hyderabad,Cold wave,Authorities respond to Cold wave in Hyderabad
+24:51.7,Lucknow,Earthquake,"Earthquake hits Lucknow, causing widespread damage"
+39:50.8,Mumbai,Drought,"Drought wreaks havoc in Mumbai, rescue efforts underway"
+33:36.3,Kolkata,Flood,"Flood hits Kolkata, causing widespread damage"
+44:31.5,Indore,Wildfire,Wildfire in Indore leaves thousands homeless
+43:50.9,Mumbai,Pandemic,"Pandemic wreaks havoc in Mumbai, rescue efforts underway"
+28:39.5,Delhi,Wildfire,"Wildfire wreaks havoc in Delhi, rescue efforts underway"
+15:36.7,Lucknow,Wildfire,Wildfire in Lucknow leaves thousands homeless
+54:22.4,Lucknow,Tsunami,"Lucknow battles Tsunami, hundreds affected"
+49:32.6,Mumbai,Earthquake,"Mumbai battles Earthquake, hundreds affected"
+00:15.8,Bangalore,Industrial Accident,"Industrial Accident hits Bangalore, causing widespread damage"
+48:10.5,Mumbai,Industrial Accident,Industrial Accident in Mumbai leaves thousands homeless
+58:17.3,Ahmedabad,Tsunami,"Ahmedabad battles Tsunami, hundreds affected"
+49:09.3,Mumbai,Wildfire,Wildfire in Mumbai leaves thousands homeless
+37:50.9,Jaipur,Flood,"Flood wreaks havoc in Jaipur, rescue efforts underway"
+50:33.1,Jaipur,Earthquake,Authorities respond to Earthquake in Jaipur
+03:07.4,Ahmedabad,Drought,Drought in Ahmedabad leaves thousands homeless
+31:31.3,Nagpur,Pandemic,Pandemic in Nagpur leaves thousands homeless
+52:12.4,Jaipur,Flood,"Flood wreaks havoc in Jaipur, rescue efforts underway"
+52:45.8,Delhi,Tsunami,"Delhi battles Tsunami, hundreds affected"
+23:04.8,Ahmedabad,Earthquake,"Ahmedabad battles Earthquake, hundreds affected"
+27:53.6,Hyderabad,Flood,"Hyderabad battles Flood, hundreds affected"
+33:24.0,Bangalore,Wildfire,Wildfire in Bangalore leaves thousands homeless
+06:50.0,Bangalore,Wildfire,"Wildfire hits Bangalore, causing widespread damage"
+15:51.0,Bangalore,Earthquake,Earthquake in Bangalore leaves thousands homeless
+38:29.9,Delhi,Earthquake,Earthquake in Delhi leaves thousands homeless
+37:36.5,Lucknow,Landslide,"Landslide wreaks havoc in Lucknow, rescue efforts underway"
+29:01.5,Delhi,Cold wave,"Cold wave hits Delhi, causing widespread damage"
+08:25.0,Chennai,Earthquake,Authorities respond to Earthquake in Chennai
+14:32.1,Jaipur,Earthquake,Earthquake in Jaipur leaves thousands homeless
+04:29.7,Chennai,Pandemic,Pandemic in Chennai leaves thousands homeless
+36:19.6,Delhi,Pandemic,"Delhi battles Pandemic, hundreds affected"
+16:25.9,Delhi,Cold wave,Cold wave in Delhi leaves thousands homeless
+54:52.1,Hyderabad,Cyclone,Cyclone in Hyderabad leaves thousands homeless
+39:04.2,Ahmedabad,Earthquake,"Ahmedabad battles Earthquake, hundreds affected"
+11:43.4,Patna,Cyclone,Authorities respond to Cyclone in Patna
+10:20.5,Kolkata,Earthquake,"Kolkata battles Earthquake, hundreds affected"
+39:31.8,Ahmedabad,Flood,"Flood wreaks havoc in Ahmedabad, rescue efforts underway"
+35:21.4,Bangalore,Cyclone,Cyclone in Bangalore leaves thousands homeless
+18:31.5,Hyderabad,Cold wave,Authorities respond to Cold wave in Hyderabad
+00:03.8,Hyderabad,Cold wave,Authorities respond to Cold wave in Hyderabad
+03:57.2,Kolkata,Cyclone,"Cyclone hits Kolkata, causing widespread damage"
+52:46.4,Mumbai,Landslide,"Landslide wreaks havoc in Mumbai, rescue efforts underway"
+06:19.3,Hyderabad,Landslide,Landslide in Hyderabad leaves thousands homeless
+07:38.5,Hyderabad,Cold wave,"Cold wave hits Hyderabad, causing widespread damage"
+53:42.9,Indore,Flood,Flood in Indore leaves thousands homeless
+40:53.4,Hyderabad,Wildfire,Authorities respond to Wildfire in Hyderabad
+45:45.6,Bangalore,Tsunami,Tsunami in Bangalore leaves thousands homeless
+46:06.1,Jaipur,Cold wave,"Cold wave hits Jaipur, causing widespread damage"
+36:51.9,Delhi,Cold wave,"Delhi battles Cold wave, hundreds affected"
+22:04.8,Mumbai,Cyclone,"Cyclone hits Mumbai, causing widespread damage"
+09:38.1,Jaipur,Industrial Accident,Authorities respond to Industrial Accident in Jaipur
+42:23.1,Kolkata,Heatwave,"Kolkata battles Heatwave, hundreds affected"
+58:22.1,Bangalore,Flood,"Bangalore battles Flood, hundreds affected"
+54:31.0,Bangalore,Wildfire,"Bangalore battles Wildfire, hundreds affected"
+48:16.7,Ahmedabad,Pandemic,Authorities respond to Pandemic in Ahmedabad
+00:42.6,Lucknow,Landslide,"Landslide wreaks havoc in Lucknow, rescue efforts underway"
+24:59.5,Chennai,Flood,Authorities respond to Flood in Chennai
+44:53.1,Chennai,Landslide,"Landslide wreaks havoc in Chennai, rescue efforts underway"
+44:24.9,Ahmedabad,Industrial Accident,"Industrial Accident wreaks havoc in Ahmedabad, rescue efforts underway"
+50:23.7,Bangalore,Pandemic,Authorities respond to Pandemic in Bangalore
+26:08.6,Pune,Pandemic,Pandemic in Pune leaves thousands homeless
+05:12.2,Nagpur,Tsunami,"Nagpur battles Tsunami, hundreds affected"
+37:56.2,Indore,Pandemic,"Pandemic wreaks havoc in Indore, rescue efforts underway"
+52:36.3,Ahmedabad,Landslide,"Ahmedabad battles Landslide, hundreds affected"
+25:19.6,Delhi,Drought,Authorities respond to Drought in Delhi
+28:32.8,Pune,Cyclone,"Cyclone wreaks havoc in Pune, rescue efforts underway"
+05:16.2,Delhi,Cold wave,Authorities respond to Cold wave in Delhi
+35:11.3,Hyderabad,Cyclone,"Cyclone hits Hyderabad, causing widespread damage"
+27:45.9,Hyderabad,Flood,"Flood hits Hyderabad, causing widespread damage"
+04:08.1,Patna,Wildfire,Authorities respond to Wildfire in Patna
+06:28.8,Ahmedabad,Pandemic,"Pandemic wreaks havoc in Ahmedabad, rescue efforts underway"
+32:04.6,Indore,Landslide,"Landslide hits Indore, causing widespread damage"
+35:28.9,Mumbai,Industrial Accident,"Industrial Accident wreaks havoc in Mumbai, rescue efforts underway"
+10:06.6,Bangalore,Flood,Authorities respond to Flood in Bangalore
+31:33.0,Delhi,Industrial Accident,"Delhi battles Industrial Accident, hundreds affected"
+15:54.0,Indore,Tsunami,"Tsunami hits Indore, causing widespread damage"
+14:29.0,Lucknow,Wildfire,"Lucknow battles Wildfire, hundreds affected"
+48:42.3,Hyderabad,Wildfire,"Hyderabad battles Wildfire, hundreds affected"
+36:58.5,Kolkata,Heatwave,"Heatwave hits Kolkata, causing widespread damage"
+12:07.2,Ahmedabad,Tsunami,Authorities respond to Tsunami in Ahmedabad
+17:57.7,Kolkata,Drought,Drought in Kolkata leaves thousands homeless
+29:58.7,Indore,Wildfire,"Wildfire wreaks havoc in Indore, rescue efforts underway"
+38:22.1,Bangalore,Landslide,Landslide in Bangalore leaves thousands homeless
+12:10.7,Patna,Industrial Accident,Industrial Accident in Patna leaves thousands homeless
+21:08.2,Kolkata,Wildfire,"Wildfire hits Kolkata, causing widespread damage"
+01:43.9,Jaipur,Landslide,"Jaipur battles Landslide, hundreds affected"
+25:33.0,Chennai,Flood,"Flood hits Chennai, causing widespread damage"
+29:41.5,Nagpur,Pandemic,"Nagpur battles Pandemic, hundreds affected"
+08:52.2,Ahmedabad,Flood,"Flood hits Ahmedabad, causing widespread damage"
+08:16.3,Delhi,Landslide,"Delhi battles Landslide, hundreds affected"
+16:07.4,Lucknow,Heatwave,"Heatwave wreaks havoc in Lucknow, rescue efforts underway"
+48:51.9,Patna,Industrial Accident,Authorities respond to Industrial Accident in Patna
+18:49.7,Patna,Flood,"Flood hits Patna, causing widespread damage"
+25:52.5,Delhi,Wildfire,Wildfire in Delhi leaves thousands homeless
+42:00.7,Bangalore,Industrial Accident,"Industrial Accident wreaks havoc in Bangalore, rescue efforts underway"
+43:48.0,Bangalore,Industrial Accident,Authorities respond to Industrial Accident in Bangalore
+43:34.5,Bangalore,Cyclone,"Cyclone hits Bangalore, causing widespread damage"
+25:51.9,Patna,Drought,Drought in Patna leaves thousands homeless
+05:03.6,Hyderabad,Earthquake,"Earthquake hits Hyderabad, causing widespread damage"
+17:43.8,Patna,Wildfire,Wildfire in Patna leaves thousands homeless
+11:29.4,Chennai,Earthquake,"Chennai battles Earthquake, hundreds affected"
+46:43.7,Jaipur,Heatwave,"Heatwave hits Jaipur, causing widespread damage"
+04:14.2,Ahmedabad,Drought,"Ahmedabad battles Drought, hundreds affected"
+18:28.8,Pune,Earthquake,"Pune battles Earthquake, hundreds affected"
+01:12.7,Kolkata,Cold wave,"Cold wave hits Kolkata, causing widespread damage"
+25:59.7,Patna,Drought,Authorities respond to Drought in Patna
+11:17.3,Indore,Flood,Flood in Indore leaves thousands homeless
+55:37.8,Kolkata,Tsunami,"Kolkata battles Tsunami, hundreds affected"
+03:13.7,Mumbai,Cyclone,Authorities respond to Cyclone in Mumbai
+51:18.9,Patna,Cyclone,Authorities respond to Cyclone in Patna
+12:20.5,Delhi,Heatwave,Heatwave in Delhi leaves thousands homeless
+14:17.4,Bangalore,Flood,Authorities respond to Flood in Bangalore
+09:33.4,Pune,Cold wave,"Pune battles Cold wave, hundreds affected"
+50:30.1,Ahmedabad,Earthquake,Authorities respond to Earthquake in Ahmedabad
+57:58.5,Kolkata,Industrial Accident,Industrial Accident in Kolkata leaves thousands homeless
+24:01.7,Pune,Industrial Accident,Industrial Accident in Pune leaves thousands homeless
+55:52.7,Mumbai,Cold wave,"Cold wave wreaks havoc in Mumbai, rescue efforts underway"
+06:05.2,Nagpur,Pandemic,"Pandemic wreaks havoc in Nagpur, rescue efforts underway"
+28:09.2,Mumbai,Earthquake,Earthquake in Mumbai leaves thousands homeless
+32:57.5,Chennai,Earthquake,Earthquake in Chennai leaves thousands homeless
+23:49.7,Lucknow,Flood,Flood in Lucknow leaves thousands homeless
+24:15.7,Hyderabad,Drought,"Drought hits Hyderabad, causing widespread damage"
+02:50.1,Indore,Drought,"Drought wreaks havoc in Indore, rescue efforts underway"
+54:03.1,Nagpur,Wildfire,"Nagpur battles Wildfire, hundreds affected"
+59:30.2,Bangalore,Flood,"Bangalore battles Flood, hundreds affected"
+58:34.1,Hyderabad,Landslide,"Landslide hits Hyderabad, causing widespread damage"
+58:20.9,Indore,Flood,Authorities respond to Flood in Indore
+55:39.1,Ahmedabad,Cyclone,"Ahmedabad battles Cyclone, hundreds affected"
+07:30.3,Kolkata,Wildfire,Wildfire in Kolkata leaves thousands homeless
+35:32.0,Mumbai,Pandemic,"Pandemic hits Mumbai, causing widespread damage"
+36:46.4,Jaipur,Pandemic,"Pandemic wreaks havoc in Jaipur, rescue efforts underway"
+37:56.1,Jaipur,Wildfire,"Jaipur battles Wildfire, hundreds affected"
+14:32.1,Patna,Cyclone,Cyclone in Patna leaves thousands homeless
+07:04.6,Chennai,Cyclone,"Chennai battles Cyclone, hundreds affected"
+27:05.1,Chennai,Cyclone,"Cyclone hits Chennai, causing widespread damage"
+13:41.3,Bangalore,Wildfire,"Wildfire wreaks havoc in Bangalore, rescue efforts underway"
+49:07.3,Kolkata,Landslide,"Kolkata battles Landslide, hundreds affected"
+55:09.6,Kolkata,Wildfire,Wildfire in Kolkata leaves thousands homeless
+09:32.5,Jaipur,Cyclone,"Cyclone hits Jaipur, causing widespread damage"
+16:06.3,Kolkata,Pandemic,"Pandemic hits Kolkata, causing widespread damage"
+45:39.6,Mumbai,Flood,"Mumbai battles Flood, hundreds affected"
+58:22.5,Hyderabad,Pandemic,"Hyderabad battles Pandemic, hundreds affected"
+57:48.6,Ahmedabad,Heatwave,Heatwave in Ahmedabad leaves thousands homeless
+33:34.4,Jaipur,Earthquake,"Earthquake wreaks havoc in Jaipur, rescue efforts underway"
+32:28.8,Delhi,Heatwave,Authorities respond to Heatwave in Delhi
+09:59.3,Pune,Heatwave,Heatwave in Pune leaves thousands homeless
+50:26.5,Indore,Cold wave,"Cold wave hits Indore, causing widespread damage"
+34:23.1,Mumbai,Cyclone,"Cyclone hits Mumbai, causing widespread damage"
+37:02.1,Bangalore,Cyclone,Cyclone in Bangalore leaves thousands homeless
+35:33.3,Lucknow,Flood,Flood in Lucknow leaves thousands homeless
+31:16.5,Nagpur,Flood,Authorities respond to Flood in Nagpur
+45:13.2,Mumbai,Cyclone,"Cyclone wreaks havoc in Mumbai, rescue efforts underway"
+40:21.4,Indore,Industrial Accident,"Industrial Accident wreaks havoc in Indore, rescue efforts underway"
+52:19.7,Ahmedabad,Heatwave,"Heatwave wreaks havoc in Ahmedabad, rescue efforts underway"
+58:47.8,Mumbai,Wildfire,"Mumbai battles Wildfire, hundreds affected"
+36:44.8,Lucknow,Industrial Accident,"Industrial Accident wreaks havoc in Lucknow, rescue efforts underway"
+23:02.1,Jaipur,Cold wave,"Cold wave wreaks havoc in Jaipur, rescue efforts underway"
+31:46.8,Ahmedabad,Wildfire,"Ahmedabad battles Wildfire, hundreds affected"
+23:21.4,Nagpur,Landslide,"Landslide wreaks havoc in Nagpur, rescue efforts underway"
+34:35.0,Ahmedabad,Cold wave,Authorities respond to Cold wave in Ahmedabad
+56:40.4,Hyderabad,Drought,Drought in Hyderabad leaves thousands homeless
+47:44.4,Chennai,Heatwave,Authorities respond to Heatwave in Chennai
+11:12.8,Nagpur,Cyclone,"Cyclone hits Nagpur, causing widespread damage"
+48:01.1,Ahmedabad,Heatwave,Heatwave in Ahmedabad leaves thousands homeless
+15:46.5,Chennai,Industrial Accident,"Chennai battles Industrial Accident, hundreds affected"
+57:03.0,Delhi,Flood,Flood in Delhi leaves thousands homeless
+17:07.3,Delhi,Drought,"Drought wreaks havoc in Delhi, rescue efforts underway"
+28:17.1,Lucknow,Drought,"Drought wreaks havoc in Lucknow, rescue efforts underway"
+55:00.7,Patna,Earthquake,Earthquake in Patna leaves thousands homeless
+30:12.6,Bangalore,Wildfire,"Wildfire hits Bangalore, causing widespread damage"
+36:48.7,Pune,Heatwave,Authorities respond to Heatwave in Pune
+07:37.9,Nagpur,Tsunami,Authorities respond to Tsunami in Nagpur
+56:29.4,Hyderabad,Flood,Flood in Hyderabad leaves thousands homeless
+35:35.3,Bangalore,Cyclone,"Cyclone wreaks havoc in Bangalore, rescue efforts underway"
+14:50.7,Ahmedabad,Cyclone,Cyclone in Ahmedabad leaves thousands homeless
+54:22.8,Bangalore,Cold wave,"Cold wave hits Bangalore, causing widespread damage"
+00:46.0,Indore,Pandemic,"Pandemic wreaks havoc in Indore, rescue efforts underway"
+32:29.6,Chennai,Pandemic,"Chennai battles Pandemic, hundreds affected"
+01:30.3,Jaipur,Heatwave,"Jaipur battles Heatwave, hundreds affected"
+55:24.9,Indore,Landslide,"Landslide hits Indore, causing widespread damage"
+52:46.2,Bangalore,Industrial Accident,Authorities respond to Industrial Accident in Bangalore
+16:54.8,Lucknow,Cold wave,"Cold wave hits Lucknow, causing widespread damage"
+17:39.2,Mumbai,Tsunami,Authorities respond to Tsunami in Mumbai
+06:22.8,Bangalore,Cyclone,"Bangalore battles Cyclone, hundreds affected"
+33:22.8,Kolkata,Cyclone,"Cyclone hits Kolkata, causing widespread damage"
+28:22.7,Chennai,Heatwave,Authorities respond to Heatwave in Chennai
+50:58.7,Chennai,Pandemic,Authorities respond to Pandemic in Chennai
+07:09.6,Lucknow,Flood,"Lucknow battles Flood, hundreds affected"
+28:26.9,Nagpur,Cyclone,"Cyclone wreaks havoc in Nagpur, rescue efforts underway"
+38:23.4,Delhi,Wildfire,"Delhi battles Wildfire, hundreds affected"
+12:25.4,Indore,Heatwave,"Indore battles Heatwave, hundreds affected"
+13:19.7,Ahmedabad,Flood,Authorities respond to Flood in Ahmedabad
+46:49.5,Pune,Landslide,"Landslide wreaks havoc in Pune, rescue efforts underway"
+18:02.1,Nagpur,Cold wave,"Cold wave wreaks havoc in Nagpur, rescue efforts underway"
+19:53.0,Patna,Pandemic,"Pandemic wreaks havoc in Patna, rescue efforts underway"
+28:36.3,Chennai,Tsunami,Authorities respond to Tsunami in Chennai
+00:26.8,Ahmedabad,Wildfire,"Ahmedabad battles Wildfire, hundreds affected"
+03:44.8,Lucknow,Tsunami,"Tsunami hits Lucknow, causing widespread damage"
+58:12.3,Kolkata,Tsunami,Authorities respond to Tsunami in Kolkata
+14:11.1,Jaipur,Cyclone,Authorities respond to Cyclone in Jaipur
+42:19.8,Chennai,Heatwave,"Chennai battles Heatwave, hundreds affected"
+13:18.3,Patna,Earthquake,"Earthquake hits Patna, causing widespread damage"
+35:02.4,Lucknow,Earthquake,"Earthquake wreaks havoc in Lucknow, rescue efforts underway"
+12:47.0,Nagpur,Cyclone,"Nagpur battles Cyclone, hundreds affected"
+39:01.3,Kolkata,Drought,Authorities respond to Drought in Kolkata
+29:05.4,Mumbai,Pandemic,"Pandemic hits Mumbai, causing widespread damage"
+19:12.6,Delhi,Tsunami,"Delhi battles Tsunami, hundreds affected"
+34:26.7,Kolkata,Pandemic,"Kolkata battles Pandemic, hundreds affected"
+20:11.5,Hyderabad,Industrial Accident,Authorities respond to Industrial Accident in Hyderabad
+18:33.9,Hyderabad,Drought,"Hyderabad battles Drought, hundreds affected"
+46:38.6,Delhi,Cyclone,"Cyclone hits Delhi, causing widespread damage"
+50:21.9,Jaipur,Earthquake,"Earthquake wreaks havoc in Jaipur, rescue efforts underway"
+48:25.0,Chennai,Drought,Drought in Chennai leaves thousands homeless
+52:41.7,Jaipur,Landslide,"Landslide wreaks havoc in Jaipur, rescue efforts underway"
+10:59.8,Delhi,Cold wave,"Delhi battles Cold wave, hundreds affected"
+53:09.7,Bangalore,Drought,Authorities respond to Drought in Bangalore
+13:03.1,Indore,Wildfire,"Indore battles Wildfire, hundreds affected"
+31:58.6,Pune,Industrial Accident,"Pune battles Industrial Accident, hundreds affected"
+01:47.5,Kolkata,Heatwave,"Kolkata battles Heatwave, hundreds affected"
+22:12.5,Nagpur,Cold wave,"Cold wave wreaks havoc in Nagpur, rescue efforts underway"
+43:06.6,Delhi,Landslide,Landslide in Delhi leaves thousands homeless
+56:32.4,Chennai,Pandemic,Pandemic in Chennai leaves thousands homeless
+10:59.4,Jaipur,Tsunami,Tsunami in Jaipur leaves thousands homeless
+44:19.3,Kolkata,Earthquake,Earthquake in Kolkata leaves thousands homeless
+26:15.2,Hyderabad,Cold wave,"Cold wave wreaks havoc in Hyderabad, rescue efforts underway"
+26:49.4,Mumbai,Earthquake,"Mumbai battles Earthquake, hundreds affected"
+15:07.1,Bangalore,Industrial Accident,"Bangalore battles Industrial Accident, hundreds affected"
+29:49.9,Patna,Earthquake,Authorities respond to Earthquake in Patna
+48:27.1,Bangalore,Earthquake,Earthquake in Bangalore leaves thousands homeless
+39:25.8,Kolkata,Flood,"Flood hits Kolkata, causing widespread damage"
+57:28.8,Jaipur,Heatwave,"Jaipur battles Heatwave, hundreds affected"
+46:33.3,Chennai,Heatwave,Heatwave in Chennai leaves thousands homeless
+35:35.5,Chennai,Flood,"Flood hits Chennai, causing widespread damage"
+43:17.3,Chennai,Pandemic,"Pandemic hits Chennai, causing widespread damage"
+39:38.7,Bangalore,Tsunami,"Tsunami hits Bangalore, causing widespread damage"
+29:53.9,Indore,Pandemic,"Pandemic wreaks havoc in Indore, rescue efforts underway"
+43:54.6,Nagpur,Wildfire,"Wildfire wreaks havoc in Nagpur, rescue efforts underway"
+50:38.0,Hyderabad,Cold wave,"Hyderabad battles Cold wave, hundreds affected"
+30:43.5,Kolkata,Pandemic,"Pandemic wreaks havoc in Kolkata, rescue efforts underway"
+37:02.9,Hyderabad,Wildfire,Wildfire in Hyderabad leaves thousands homeless
+16:14.2,Nagpur,Wildfire,"Wildfire wreaks havoc in Nagpur, rescue efforts underway"
+28:15.2,Chennai,Heatwave,"Chennai battles Heatwave, hundreds affected"
+45:32.5,Pune,Heatwave,Heatwave in Pune leaves thousands homeless
+05:48.2,Pune,Tsunami,Tsunami in Pune leaves thousands homeless
+14:26.1,Delhi,Wildfire,"Wildfire wreaks havoc in Delhi, rescue efforts underway"
+21:55.5,Bangalore,Industrial Accident,"Bangalore battles Industrial Accident, hundreds affected"
+48:08.2,Jaipur,Landslide,"Landslide wreaks havoc in Jaipur, rescue efforts underway"
+47:34.0,Patna,Heatwave,"Patna battles Heatwave, hundreds affected"
+37:42.3,Nagpur,Cyclone,Authorities respond to Cyclone in Nagpur
+18:17.4,Hyderabad,Drought,"Hyderabad battles Drought, hundreds affected"
+31:53.1,Pune,Wildfire,"Pune battles Wildfire, hundreds affected"
+09:24.4,Mumbai,Earthquake,Authorities respond to Earthquake in Mumbai
+28:34.2,Indore,Heatwave,Authorities respond to Heatwave in Indore
+04:41.5,Chennai,Flood,"Flood wreaks havoc in Chennai, rescue efforts underway"
+40:09.6,Nagpur,Cyclone,"Cyclone wreaks havoc in Nagpur, rescue efforts underway"
+56:04.2,Lucknow,Wildfire,Wildfire in Lucknow leaves thousands homeless
+24:15.0,Hyderabad,Wildfire,"Hyderabad battles Wildfire, hundreds affected"
+59:46.1,Jaipur,Heatwave,"Heatwave hits Jaipur, causing widespread damage"
+30:01.2,Bangalore,Wildfire,"Bangalore battles Wildfire, hundreds affected"
+55:22.5,Ahmedabad,Landslide,Authorities respond to Landslide in Ahmedabad
+33:16.0,Indore,Heatwave,"Indore battles Heatwave, hundreds affected"
+40:09.7,Jaipur,Heatwave,"Jaipur battles Heatwave, hundreds affected"
+24:09.3,Kolkata,Tsunami,"Tsunami hits Kolkata, causing widespread damage"
+51:25.4,Delhi,Earthquake,Authorities respond to Earthquake in Delhi
+24:28.4,Indore,Landslide,Authorities respond to Landslide in Indore
+06:47.9,Pune,Drought,Drought in Pune leaves thousands homeless
+48:43.2,Ahmedabad,Earthquake,"Earthquake hits Ahmedabad, causing widespread damage"
+46:54.2,Kolkata,Flood,Flood in Kolkata leaves thousands homeless
+04:20.3,Bangalore,Pandemic,"Bangalore battles Pandemic, hundreds affected"
+00:19.4,Nagpur,Heatwave,"Heatwave wreaks havoc in Nagpur, rescue efforts underway"
+43:17.3,Mumbai,Drought,Drought in Mumbai leaves thousands homeless
+52:52.4,Jaipur,Cold wave,"Cold wave hits Jaipur, causing widespread damage"
+30:54.0,Chennai,Cold wave,"Chennai battles Cold wave, hundreds affected"
+20:43.1,Chennai,Drought,"Drought hits Chennai, causing widespread damage"
+50:03.0,Bangalore,Heatwave,Heatwave in Bangalore leaves thousands homeless
+48:01.5,Jaipur,Earthquake,"Earthquake wreaks havoc in Jaipur, rescue efforts underway"
+36:06.3,Chennai,Industrial Accident,"Industrial Accident wreaks havoc in Chennai, rescue efforts underway"
+04:19.9,Chennai,Tsunami,"Tsunami wreaks havoc in Chennai, rescue efforts underway"
+59:46.8,Lucknow,Wildfire,Wildfire in Lucknow leaves thousands homeless
+37:45.9,Kolkata,Industrial Accident,"Industrial Accident wreaks havoc in Kolkata, rescue efforts underway"
+06:13.5,Ahmedabad,Earthquake,"Ahmedabad battles Earthquake, hundreds affected"
+21:42.8,Ahmedabad,Wildfire,"Wildfire wreaks havoc in Ahmedabad, rescue efforts underway"
+36:59.1,Hyderabad,Landslide,"Landslide wreaks havoc in Hyderabad, rescue efforts underway"
+06:52.7,Ahmedabad,Tsunami,Authorities respond to Tsunami in Ahmedabad
+12:24.5,Bangalore,Cold wave,"Bangalore battles Cold wave, hundreds affected"
+33:42.5,Hyderabad,Heatwave,"Heatwave wreaks havoc in Hyderabad, rescue efforts underway"
+42:34.6,Hyderabad,Wildfire,Wildfire in Hyderabad leaves thousands homeless
+58:48.0,Patna,Cyclone,Cyclone in Patna leaves thousands homeless
+42:35.0,Jaipur,Landslide,Authorities respond to Landslide in Jaipur
+24:57.2,Jaipur,Cyclone,Cyclone in Jaipur leaves thousands homeless
+29:34.5,Lucknow,Wildfire,"Lucknow battles Wildfire, hundreds affected"
+57:39.3,Mumbai,Industrial Accident,"Industrial Accident hits Mumbai, causing widespread damage"
+39:29.9,Nagpur,Cold wave,"Cold wave hits Nagpur, causing widespread damage"
+40:07.0,Jaipur,Industrial Accident,"Industrial Accident wreaks havoc in Jaipur, rescue efforts underway"
+30:24.6,Bangalore,Cold wave,Authorities respond to Cold wave in Bangalore
+48:56.2,Ahmedabad,Industrial Accident,Industrial Accident in Ahmedabad leaves thousands homeless
+16:38.0,Ahmedabad,Cold wave,Cold wave in Ahmedabad leaves thousands homeless
+49:43.3,Bangalore,Pandemic,Pandemic in Bangalore leaves thousands homeless
+31:01.7,Hyderabad,Wildfire,"Wildfire hits Hyderabad, causing widespread damage"
+50:16.4,Kolkata,Heatwave,"Kolkata battles Heatwave, hundreds affected"
+12:04.0,Patna,Drought,"Drought hits Patna, causing widespread damage"
+15:20.8,Delhi,Landslide,"Delhi battles Landslide, hundreds affected"
+04:06.9,Nagpur,Heatwave,"Heatwave hits Nagpur, causing widespread damage"
+52:11.7,Mumbai,Flood,"Flood hits Mumbai, causing widespread damage"
+12:39.6,Ahmedabad,Industrial Accident,"Industrial Accident wreaks havoc in Ahmedabad, rescue efforts underway"
+56:59.6,Jaipur,Wildfire,"Wildfire hits Jaipur, causing widespread damage"
+49:16.7,Pune,Landslide,"Landslide hits Pune, causing widespread damage"
+53:10.2,Delhi,Pandemic,"Delhi battles Pandemic, hundreds affected"
+21:55.5,Indore,Cyclone,Authorities respond to Cyclone in Indore
+53:37.3,Mumbai,Drought,Drought in Mumbai leaves thousands homeless
+33:26.8,Nagpur,Cyclone,Authorities respond to Cyclone in Nagpur
+58:54.3,Nagpur,Industrial Accident,"Industrial Accident wreaks havoc in Nagpur, rescue efforts underway"
+55:03.6,Mumbai,Cyclone,"Cyclone hits Mumbai, causing widespread damage"
+24:05.3,Delhi,Tsunami,Tsunami in Delhi leaves thousands homeless
+03:59.2,Patna,Wildfire,"Patna battles Wildfire, hundreds affected"
+45:35.0,Patna,Heatwave,"Patna battles Heatwave, hundreds affected"
+18:34.1,Jaipur,Flood,Flood in Jaipur leaves thousands homeless
+33:37.8,Nagpur,Industrial Accident,Authorities respond to Industrial Accident in Nagpur
+08:51.8,Hyderabad,Flood,"Flood hits Hyderabad, causing widespread damage"
+08:43.8,Nagpur,Flood,"Flood wreaks havoc in Nagpur, rescue efforts underway"
+00:32.7,Jaipur,Landslide,Landslide in Jaipur leaves thousands homeless
+25:31.2,Indore,Landslide,"Landslide wreaks havoc in Indore, rescue efforts underway"
+49:51.3,Jaipur,Drought,Drought in Jaipur leaves thousands homeless
+46:10.9,Delhi,Industrial Accident,"Industrial Accident wreaks havoc in Delhi, rescue efforts underway"
+12:18.2,Bangalore,Pandemic,Pandemic in Bangalore leaves thousands homeless
+21:25.7,Bangalore,Cold wave,"Cold wave wreaks havoc in Bangalore, rescue efforts underway"
+01:18.2,Hyderabad,Heatwave,"Hyderabad battles Heatwave, hundreds affected"
+51:07.6,Hyderabad,Cold wave,Cold wave in Hyderabad leaves thousands homeless
+16:55.5,Kolkata,Drought,"Kolkata battles Drought, hundreds affected"
+00:10.8,Indore,Landslide,"Landslide wreaks havoc in Indore, rescue efforts underway"
+46:58.5,Ahmedabad,Cyclone,"Ahmedabad battles Cyclone, hundreds affected"
+16:38.8,Pune,Flood,"Pune battles Flood, hundreds affected"
+14:58.7,Patna,Cold wave,"Patna battles Cold wave, hundreds affected"
+27:07.3,Mumbai,Cold wave,Authorities respond to Cold wave in Mumbai
+51:29.9,Chennai,Wildfire,"Wildfire wreaks havoc in Chennai, rescue efforts underway"
+52:07.5,Lucknow,Wildfire,Authorities respond to Wildfire in Lucknow
+57:12.1,Nagpur,Cold wave,Authorities respond to Cold wave in Nagpur
+00:27.0,Mumbai,Wildfire,"Wildfire wreaks havoc in Mumbai, rescue efforts underway"
+40:15.5,Chennai,Cold wave,Authorities respond to Cold wave in Chennai
+41:05.4,Chennai,Industrial Accident,Authorities respond to Industrial Accident in Chennai
+36:30.9,Delhi,Drought,Drought in Delhi leaves thousands homeless
+08:15.6,Patna,Heatwave,Authorities respond to Heatwave in Patna
+23:58.1,Indore,Tsunami,Tsunami in Indore leaves thousands homeless
+05:54.4,Lucknow,Landslide,"Lucknow battles Landslide, hundreds affected"
+19:10.3,Jaipur,Industrial Accident,"Industrial Accident wreaks havoc in Jaipur, rescue efforts underway"
+13:20.7,Mumbai,Wildfire,"Mumbai battles Wildfire, hundreds affected"
+19:03.2,Indore,Flood,"Indore battles Flood, hundreds affected"
+42:38.8,Mumbai,Wildfire,Wildfire in Mumbai leaves thousands homeless
+10:48.9,Ahmedabad,Drought,"Drought wreaks havoc in Ahmedabad, rescue efforts underway"
+18:04.8,Indore,Flood,"Indore battles Flood, hundreds affected"
+38:23.4,Lucknow,Pandemic,Authorities respond to Pandemic in Lucknow
+21:01.9,Hyderabad,Earthquake,Authorities respond to Earthquake in Hyderabad
+18:21.4,Patna,Drought,"Drought hits Patna, causing widespread damage"
+29:18.0,Indore,Cyclone,Authorities respond to Cyclone in Indore
+25:55.7,Mumbai,Cold wave,"Mumbai battles Cold wave, hundreds affected"
+32:06.9,Patna,Cyclone,Cyclone in Patna leaves thousands homeless
+34:09.9,Lucknow,Industrial Accident,"Industrial Accident wreaks havoc in Lucknow, rescue efforts underway"
+59:17.6,Nagpur,Pandemic,Pandemic in Nagpur leaves thousands homeless
+08:19.8,Lucknow,Heatwave,"Heatwave hits Lucknow, causing widespread damage"
+13:21.5,Chennai,Pandemic,Authorities respond to Pandemic in Chennai
+29:24.3,Mumbai,Industrial Accident,Authorities respond to Industrial Accident in Mumbai
+34:55.2,Patna,Industrial Accident,"Industrial Accident wreaks havoc in Patna, rescue efforts underway"
+43:38.3,Bangalore,Heatwave,Heatwave in Bangalore leaves thousands homeless
+40:18.3,Kolkata,Pandemic,Authorities respond to Pandemic in Kolkata
+12:50.5,Delhi,Earthquake,Earthquake in Delhi leaves thousands homeless
+12:22.8,Bangalore,Tsunami,"Tsunami hits Bangalore, causing widespread damage"
+56:15.3,Delhi,Cyclone,"Cyclone hits Delhi, causing widespread damage"
+36:01.8,Patna,Earthquake,"Earthquake wreaks havoc in Patna, rescue efforts underway"
+51:35.2,Pune,Industrial Accident,"Pune battles Industrial Accident, hundreds affected"
+49:47.4,Patna,Drought,Authorities respond to Drought in Patna
+57:38.6,Mumbai,Landslide,"Landslide hits Mumbai, causing widespread damage"
+19:38.3,Pune,Cyclone,"Pune battles Cyclone, hundreds affected"
+03:11.1,Jaipur,Cyclone,"Jaipur battles Cyclone, hundreds affected"
+50:44.4,Ahmedabad,Pandemic,Pandemic in Ahmedabad leaves thousands homeless
+52:35.0,Kolkata,Heatwave,Heatwave in Kolkata leaves thousands homeless
+59:23.6,Chennai,Heatwave,Heatwave in Chennai leaves thousands homeless
+47:30.4,Delhi,Cyclone,Authorities respond to Cyclone in Delhi
+03:39.8,Jaipur,Pandemic,"Pandemic hits Jaipur, causing widespread damage"
+21:12.9,Delhi,Pandemic,Authorities respond to Pandemic in Delhi
+54:37.9,Indore,Cyclone,"Indore battles Cyclone, hundreds affected"
+50:14.1,Chennai,Drought,Authorities respond to Drought in Chennai
+13:28.8,Ahmedabad,Cyclone,"Cyclone wreaks havoc in Ahmedabad, rescue efforts underway"
+18:10.3,Patna,Cold wave,Cold wave in Patna leaves thousands homeless
+27:54.8,Nagpur,Flood,"Flood wreaks havoc in Nagpur, rescue efforts underway"
+15:40.5,Pune,Earthquake,Earthquake in Pune leaves thousands homeless
+00:40.4,Bangalore,Landslide,Authorities respond to Landslide in Bangalore
+51:45.6,Nagpur,Flood,"Flood wreaks havoc in Nagpur, rescue efforts underway"
+39:44.1,Hyderabad,Landslide,Authorities respond to Landslide in Hyderabad
+15:56.7,Nagpur,Earthquake,"Nagpur battles Earthquake, hundreds affected"
+15:56.3,Hyderabad,Industrial Accident,"Hyderabad battles Industrial Accident, hundreds affected"
+50:23.2,Bangalore,Wildfire,"Bangalore battles Wildfire, hundreds affected"
+45:47.9,Delhi,Wildfire,"Wildfire wreaks havoc in Delhi, rescue efforts underway"
+11:14.4,Nagpur,Cyclone,"Cyclone hits Nagpur, causing widespread damage"
+46:02.7,Hyderabad,Cold wave,"Cold wave hits Hyderabad, causing widespread damage"
+49:21.5,Kolkata,Pandemic,"Pandemic wreaks havoc in Kolkata, rescue efforts underway"
+45:12.1,Indore,Landslide,"Indore battles Landslide, hundreds affected"
+18:26.6,Chennai,Earthquake,"Earthquake wreaks havoc in Chennai, rescue efforts underway"
+56:36.0,Hyderabad,Pandemic,Pandemic in Hyderabad leaves thousands homeless
+57:45.0,Ahmedabad,Flood,Flood in Ahmedabad leaves thousands homeless
+22:27.5,Nagpur,Pandemic,"Pandemic wreaks havoc in Nagpur, rescue efforts underway"
+20:56.8,Delhi,Pandemic,Authorities respond to Pandemic in Delhi
+15:15.9,Chennai,Heatwave,"Chennai battles Heatwave, hundreds affected"
+11:01.3,Bangalore,Tsunami,"Tsunami hits Bangalore, causing widespread damage"
+27:56.0,Ahmedabad,Pandemic,Authorities respond to Pandemic in Ahmedabad
+53:33.1,Lucknow,Landslide,"Landslide wreaks havoc in Lucknow, rescue efforts underway"
+05:14.5,Indore,Flood,"Indore battles Flood, hundreds affected"
+46:04.8,Lucknow,Wildfire,Wildfire in Lucknow leaves thousands homeless
+36:15.3,Delhi,Earthquake,Earthquake in Delhi leaves thousands homeless
+50:09.4,Hyderabad,Cyclone,Cyclone in Hyderabad leaves thousands homeless
+33:06.8,Mumbai,Landslide,"Landslide wreaks havoc in Mumbai, rescue efforts underway"
+54:15.9,Patna,Flood,"Patna battles Flood, hundreds affected"
+44:50.9,Mumbai,Industrial Accident,"Industrial Accident hits Mumbai, causing widespread damage"
+29:07.6,Bangalore,Drought,"Drought hits Bangalore, causing widespread damage"
+20:47.9,Kolkata,Landslide,"Landslide hits Kolkata, causing widespread damage"
+26:47.7,Bangalore,Heatwave,Authorities respond to Heatwave in Bangalore
+31:15.1,Indore,Landslide,"Landslide wreaks havoc in Indore, rescue efforts underway"
+03:59.1,Delhi,Drought,Authorities respond to Drought in Delhi
+27:34.3,Pune,Tsunami,"Tsunami hits Pune, causing widespread damage"
+19:57.8,Nagpur,Industrial Accident,"Nagpur battles Industrial Accident, hundreds affected"
+52:37.3,Chennai,Cold wave,"Chennai battles Cold wave, hundreds affected"
+16:19.6,Chennai,Cold wave,"Cold wave hits Chennai, causing widespread damage"
+05:33.3,Lucknow,Wildfire,Wildfire in Lucknow leaves thousands homeless
+25:45.6,Kolkata,Landslide,"Kolkata battles Landslide, hundreds affected"
+37:09.7,Patna,Earthquake,"Earthquake hits Patna, causing widespread damage"
+48:54.1,Jaipur,Heatwave,"Heatwave wreaks havoc in Jaipur, rescue efforts underway"
+28:45.4,Bangalore,Cyclone,"Cyclone hits Bangalore, causing widespread damage"
+05:27.1,Ahmedabad,Pandemic,"Pandemic wreaks havoc in Ahmedabad, rescue efforts underway"
+26:43.7,Jaipur,Flood,Authorities respond to Flood in Jaipur
+00:33.1,Ahmedabad,Flood,Flood in Ahmedabad leaves thousands homeless
+15:06.5,Nagpur,Cold wave,"Cold wave wreaks havoc in Nagpur, rescue efforts underway"
+25:47.2,Ahmedabad,Cold wave,"Cold wave wreaks havoc in Ahmedabad, rescue efforts underway"
+21:42.3,Ahmedabad,Wildfire,"Wildfire hits Ahmedabad, causing widespread damage"
+23:01.8,Hyderabad,Wildfire,"Wildfire hits Hyderabad, causing widespread damage"
+34:06.3,Kolkata,Wildfire,Wildfire in Kolkata leaves thousands homeless
+22:45.4,Patna,Wildfire,Authorities respond to Wildfire in Patna
+23:47.5,Chennai,Earthquake,Authorities respond to Earthquake in Chennai
+29:13.1,Hyderabad,Wildfire,Wildfire in Hyderabad leaves thousands homeless
+06:41.0,Lucknow,Cold wave,"Cold wave hits Lucknow, causing widespread damage"
+06:13.8,Patna,Pandemic,Authorities respond to Pandemic in Patna
+35:40.3,Mumbai,Cyclone,"Cyclone wreaks havoc in Mumbai, rescue efforts underway"
+07:17.3,Chennai,Wildfire,Wildfire in Chennai leaves thousands homeless
+25:45.0,Pune,Earthquake,"Earthquake hits Pune, causing widespread damage"
+27:52.6,Hyderabad,Pandemic,Pandemic in Hyderabad leaves thousands homeless
+08:05.9,Pune,Landslide,Authorities respond to Landslide in Pune
+42:30.7,Kolkata,Pandemic,"Kolkata battles Pandemic, hundreds affected"
+25:04.0,Indore,Flood,"Flood wreaks havoc in Indore, rescue efforts underway"
+56:16.5,Indore,Tsunami,"Tsunami wreaks havoc in Indore, rescue efforts underway"
+26:02.1,Bangalore,Heatwave,Authorities respond to Heatwave in Bangalore
+08:02.4,Mumbai,Drought,Drought in Mumbai leaves thousands homeless
+53:49.3,Lucknow,Pandemic,Pandemic in Lucknow leaves thousands homeless
+06:05.5,Hyderabad,Industrial Accident,"Industrial Accident wreaks havoc in Hyderabad, rescue efforts underway"
+22:20.2,Ahmedabad,Heatwave,"Heatwave wreaks havoc in Ahmedabad, rescue efforts underway"
+45:25.6,Lucknow,Heatwave,Authorities respond to Heatwave in Lucknow
+00:42.8,Delhi,Landslide,"Landslide hits Delhi, causing widespread damage"
+02:15.8,Indore,Heatwave,Heatwave in Indore leaves thousands homeless
+00:52.4,Pune,Tsunami,"Tsunami hits Pune, causing widespread damage"
+29:42.3,Ahmedabad,Drought,"Drought hits Ahmedabad, causing widespread damage"
+52:51.1,Nagpur,Drought,"Drought hits Nagpur, causing widespread damage"
+10:17.5,Patna,Pandemic,Authorities respond to Pandemic in Patna
+13:04.0,Patna,Drought,"Drought wreaks havoc in Patna, rescue efforts underway"
+13:07.3,Mumbai,Industrial Accident,Industrial Accident in Mumbai leaves thousands homeless
+30:19.0,Chennai,Flood,"Flood wreaks havoc in Chennai, rescue efforts underway"
+21:50.2,Jaipur,Wildfire,Wildfire in Jaipur leaves thousands homeless
+31:06.0,Mumbai,Earthquake,"Earthquake wreaks havoc in Mumbai, rescue efforts underway"
+41:50.3,Nagpur,Cyclone,"Cyclone hits Nagpur, causing widespread damage"
+22:05.5,Bangalore,Wildfire,"Wildfire hits Bangalore, causing widespread damage"
+08:01.2,Lucknow,Drought,"Drought wreaks havoc in Lucknow, rescue efforts underway"
+11:20.5,Jaipur,Tsunami,"Tsunami wreaks havoc in Jaipur, rescue efforts underway"
+15:50.6,Indore,Cold wave,Authorities respond to Cold wave in Indore
+30:15.9,Hyderabad,Cold wave,"Cold wave hits Hyderabad, causing widespread damage"
+28:22.9,Chennai,Heatwave,"Heatwave hits Chennai, causing widespread damage"
+55:54.6,Ahmedabad,Cyclone,"Ahmedabad battles Cyclone, hundreds affected"
+48:20.3,Pune,Cold wave,"Pune battles Cold wave, hundreds affected"
+49:42.2,Mumbai,Drought,"Drought hits Mumbai, causing widespread damage"
+27:16.3,Nagpur,Wildfire,Wildfire in Nagpur leaves thousands homeless
+03:48.1,Kolkata,Drought,Authorities respond to Drought in Kolkata
+48:09.5,Jaipur,Heatwave,"Heatwave hits Jaipur, causing widespread damage"
+39:29.7,Bangalore,Heatwave,Authorities respond to Heatwave in Bangalore
+50:47.0,Bangalore,Drought,"Bangalore battles Drought, hundreds affected"
+18:26.6,Chennai,Pandemic,"Pandemic hits Chennai, causing widespread damage"
+14:19.7,Mumbai,Cyclone,Cyclone in Mumbai leaves thousands homeless
+47:12.6,Bangalore,Earthquake,"Bangalore battles Earthquake, hundreds affected"
+01:54.2,Lucknow,Industrial Accident,Industrial Accident in Lucknow leaves thousands homeless
+59:45.1,Chennai,Industrial Accident,"Chennai battles Industrial Accident, hundreds affected"
+33:03.9,Ahmedabad,Cold wave,"Ahmedabad battles Cold wave, hundreds affected"
+05:35.7,Jaipur,Heatwave,"Jaipur battles Heatwave, hundreds affected"
+45:27.9,Ahmedabad,Industrial Accident,"Ahmedabad battles Industrial Accident, hundreds affected"
+05:54.2,Patna,Cold wave,"Patna battles Cold wave, hundreds affected"
+40:07.2,Pune,Landslide,"Landslide wreaks havoc in Pune, rescue efforts underway"
+06:59.8,Nagpur,Cyclone,"Cyclone wreaks havoc in Nagpur, rescue efforts underway"
+34:54.1,Ahmedabad,Landslide,"Ahmedabad battles Landslide, hundreds affected"
+08:32.4,Chennai,Tsunami,Tsunami in Chennai leaves thousands homeless
+32:27.6,Mumbai,Landslide,Authorities respond to Landslide in Mumbai
+19:58.4,Mumbai,Cyclone,Cyclone in Mumbai leaves thousands homeless
+17:42.3,Bangalore,Pandemic,"Pandemic hits Bangalore, causing widespread damage"
+11:13.3,Jaipur,Flood,"Jaipur battles Flood, hundreds affected"
+52:07.0,Chennai,Cyclone,"Cyclone hits Chennai, causing widespread damage"
+02:21.2,Lucknow,Drought,"Lucknow battles Drought, hundreds affected"
+36:45.5,Jaipur,Drought,Authorities respond to Drought in Jaipur
+54:46.6,Delhi,Tsunami,"Tsunami wreaks havoc in Delhi, rescue efforts underway"
+18:53.9,Hyderabad,Tsunami,Tsunami in Hyderabad leaves thousands homeless
+08:45.4,Mumbai,Industrial Accident,Industrial Accident in Mumbai leaves thousands homeless
+30:33.6,Indore,Tsunami,Authorities respond to Tsunami in Indore
+43:04.1,Patna,Earthquake,"Earthquake hits Patna, causing widespread damage"
+38:31.9,Lucknow,Wildfire,"Wildfire hits Lucknow, causing widespread damage"
+01:39.7,Chennai,Flood,"Chennai battles Flood, hundreds affected"
+03:32.2,Pune,Pandemic,"Pandemic hits Pune, causing widespread damage"
+07:03.1,Jaipur,Industrial Accident,Authorities respond to Industrial Accident in Jaipur
+24:24.3,Indore,Heatwave,"Heatwave wreaks havoc in Indore, rescue efforts underway"
+46:25.9,Bangalore,Pandemic,"Pandemic wreaks havoc in Bangalore, rescue efforts underway"
+48:55.1,Hyderabad,Earthquake,"Earthquake wreaks havoc in Hyderabad, rescue efforts underway"
+26:24.9,Lucknow,Cyclone,Cyclone in Lucknow leaves thousands homeless
+32:14.2,Mumbai,Earthquake,Earthquake in Mumbai leaves thousands homeless
+54:54.9,Pune,Cyclone,"Cyclone wreaks havoc in Pune, rescue efforts underway"
+44:43.6,Mumbai,Landslide,"Landslide hits Mumbai, causing widespread damage"
+20:13.4,Kolkata,Cold wave,Cold wave in Kolkata leaves thousands homeless
+34:16.3,Hyderabad,Tsunami,"Tsunami wreaks havoc in Hyderabad, rescue efforts underway"
+06:09.7,Delhi,Earthquake,Authorities respond to Earthquake in Delhi
+38:51.6,Mumbai,Landslide,"Landslide wreaks havoc in Mumbai, rescue efforts underway"
+46:43.9,Lucknow,Pandemic,Pandemic in Lucknow leaves thousands homeless
+27:53.5,Bangalore,Pandemic,Pandemic in Bangalore leaves thousands homeless
+53:00.8,Indore,Flood,Authorities respond to Flood in Indore
+56:59.2,Bangalore,Cold wave,"Cold wave wreaks havoc in Bangalore, rescue efforts underway"
+38:51.8,Hyderabad,Tsunami,"Tsunami wreaks havoc in Hyderabad, rescue efforts underway"
+56:13.1,Delhi,Wildfire,"Delhi battles Wildfire, hundreds affected"
+13:42.8,Nagpur,Flood,"Nagpur battles Flood, hundreds affected"
+44:32.7,Patna,Flood,Flood in Patna leaves thousands homeless
+49:54.7,Indore,Cold wave,"Cold wave wreaks havoc in Indore, rescue efforts underway"
+25:09.6,Chennai,Drought,Authorities respond to Drought in Chennai
+27:29.5,Nagpur,Pandemic,"Pandemic hits Nagpur, causing widespread damage"
+51:17.1,Patna,Industrial Accident,Authorities respond to Industrial Accident in Patna
+52:37.9,Mumbai,Wildfire,Wildfire in Mumbai leaves thousands homeless
+05:29.4,Kolkata,Drought,Authorities respond to Drought in Kolkata
+56:59.4,Bangalore,Pandemic,Authorities respond to Pandemic in Bangalore
+05:58.7,Hyderabad,Drought,"Drought hits Hyderabad, causing widespread damage"
+14:25.2,Chennai,Earthquake,Earthquake in Chennai leaves thousands homeless
+40:19.7,Chennai,Landslide,"Landslide wreaks havoc in Chennai, rescue efforts underway"
+58:49.6,Pune,Cold wave,Cold wave in Pune leaves thousands homeless
+53:33.2,Kolkata,Flood,"Kolkata battles Flood, hundreds affected"
+47:50.4,Bangalore,Pandemic,Authorities respond to Pandemic in Bangalore
+27:07.0,Kolkata,Wildfire,Wildfire in Kolkata leaves thousands homeless
+36:33.1,Patna,Drought,"Patna battles Drought, hundreds affected"
+07:32.4,Ahmedabad,Landslide,Landslide in Ahmedabad leaves thousands homeless
+14:01.0,Nagpur,Pandemic,"Pandemic wreaks havoc in Nagpur, rescue efforts underway"
+16:26.2,Ahmedabad,Flood,Flood in Ahmedabad leaves thousands homeless
+22:30.2,Indore,Heatwave,Heatwave in Indore leaves thousands homeless
+41:30.0,Hyderabad,Cold wave,Authorities respond to Cold wave in Hyderabad
+17:24.6,Chennai,Landslide,"Landslide hits Chennai, causing widespread damage"
+05:31.0,Pune,Cold wave,"Cold wave hits Pune, causing widespread damage"
+23:10.1,Chennai,Industrial Accident,"Industrial Accident wreaks havoc in Chennai, rescue efforts underway"
+51:21.8,Delhi,Drought,"Drought hits Delhi, causing widespread damage"
+39:35.7,Ahmedabad,Pandemic,"Pandemic hits Ahmedabad, causing widespread damage"
+13:10.9,Delhi,Cyclone,Cyclone in Delhi leaves thousands homeless
+56:53.2,Delhi,Landslide,"Landslide hits Delhi, causing widespread damage"
+57:58.6,Lucknow,Earthquake,Authorities respond to Earthquake in Lucknow
+37:29.0,Delhi,Flood,Flood in Delhi leaves thousands homeless
+18:49.3,Delhi,Industrial Accident,"Delhi battles Industrial Accident, hundreds affected"
+17:17.9,Mumbai,Earthquake,"Mumbai battles Earthquake, hundreds affected"
+54:07.5,Jaipur,Tsunami,Authorities respond to Tsunami in Jaipur
+37:34.5,Lucknow,Heatwave,Authorities respond to Heatwave in Lucknow
+11:12.8,Mumbai,Wildfire,"Mumbai battles Wildfire, hundreds affected"
+21:39.1,Delhi,Cold wave,"Cold wave hits Delhi, causing widespread damage"
+46:27.5,Chennai,Cyclone,Cyclone in Chennai leaves thousands homeless
+35:15.5,Indore,Tsunami,"Tsunami wreaks havoc in Indore, rescue efforts underway"
+15:27.3,Mumbai,Pandemic,Authorities respond to Pandemic in Mumbai
+02:51.2,Nagpur,Tsunami,Authorities respond to Tsunami in Nagpur
+50:52.6,Nagpur,Cold wave,"Nagpur battles Cold wave, hundreds affected"
+22:47.3,Mumbai,Heatwave,"Heatwave wreaks havoc in Mumbai, rescue efforts underway"
+00:45.8,Chennai,Drought,"Drought wreaks havoc in Chennai, rescue efforts underway"
+11:39.7,Chennai,Landslide,Landslide in Chennai leaves thousands homeless
+28:05.8,Indore,Flood,Flood in Indore leaves thousands homeless
+23:52.1,Hyderabad,Industrial Accident,Industrial Accident in Hyderabad leaves thousands homeless
+32:31.3,Jaipur,Cyclone,Authorities respond to Cyclone in Jaipur
+19:14.2,Nagpur,Cold wave,"Cold wave wreaks havoc in Nagpur, rescue efforts underway"
+29:44.0,Jaipur,Cyclone,"Cyclone hits Jaipur, causing widespread damage"
+50:31.3,Chennai,Wildfire,"Wildfire wreaks havoc in Chennai, rescue efforts underway"
+48:55.7,Mumbai,Cold wave,"Mumbai battles Cold wave, hundreds affected"
+40:04.5,Ahmedabad,Flood,Flood in Ahmedabad leaves thousands homeless
+09:12.3,Indore,Drought,Authorities respond to Drought in Indore
+50:05.0,Lucknow,Industrial Accident,"Industrial Accident wreaks havoc in Lucknow, rescue efforts underway"
+18:59.5,Jaipur,Landslide,Authorities respond to Landslide in Jaipur
+50:56.6,Mumbai,Wildfire,Wildfire in Mumbai leaves thousands homeless
+54:57.1,Lucknow,Flood,Authorities respond to Flood in Lucknow
+20:43.7,Indore,Cyclone,Cyclone in Indore leaves thousands homeless
+14:53.0,Lucknow,Wildfire,Wildfire in Lucknow leaves thousands homeless
+33:55.6,Patna,Pandemic,"Pandemic wreaks havoc in Patna, rescue efforts underway"
+53:34.2,Pune,Heatwave,Authorities respond to Heatwave in Pune
+09:16.5,Indore,Landslide,"Landslide hits Indore, causing widespread damage"
+15:16.5,Delhi,Wildfire,"Wildfire wreaks havoc in Delhi, rescue efforts underway"
+27:14.1,Patna,Drought,"Patna battles Drought, hundreds affected"
+27:18.3,Ahmedabad,Heatwave,"Heatwave wreaks havoc in Ahmedabad, rescue efforts underway"
+02:21.2,Jaipur,Tsunami,Authorities respond to Tsunami in Jaipur
+43:17.0,Patna,Cold wave,Cold wave in Patna leaves thousands homeless
+31:40.7,Hyderabad,Tsunami,Authorities respond to Tsunami in Hyderabad
+17:22.6,Delhi,Cyclone,Cyclone in Delhi leaves thousands homeless
+11:39.0,Indore,Industrial Accident,Industrial Accident in Indore leaves thousands homeless
+31:06.5,Jaipur,Flood,Authorities respond to Flood in Jaipur
+05:37.7,Indore,Heatwave,"Heatwave wreaks havoc in Indore, rescue efforts underway"
+05:55.0,Jaipur,Landslide,"Landslide wreaks havoc in Jaipur, rescue efforts underway"
+13:20.7,Chennai,Landslide,"Landslide hits Chennai, causing widespread damage"
+30:39.1,Indore,Tsunami,"Indore battles Tsunami, hundreds affected"
+09:15.6,Patna,Earthquake,"Earthquake hits Patna, causing widespread damage"
+46:33.2,Kolkata,Earthquake,Earthquake in Kolkata leaves thousands homeless
+28:37.1,Delhi,Earthquake,"Earthquake wreaks havoc in Delhi, rescue efforts underway"
+46:37.5,Jaipur,Drought,"Drought wreaks havoc in Jaipur, rescue efforts underway"
+48:52.7,Nagpur,Drought,Authorities respond to Drought in Nagpur
+35:55.4,Chennai,Landslide,"Chennai battles Landslide, hundreds affected"
+44:53.4,Mumbai,Heatwave,"Heatwave wreaks havoc in Mumbai, rescue efforts underway"
+59:37.8,Mumbai,Earthquake,"Earthquake hits Mumbai, causing widespread damage"
+59:07.4,Kolkata,Heatwave,Heatwave in Kolkata leaves thousands homeless
+44:53.6,Ahmedabad,Landslide,"Landslide hits Ahmedabad, causing widespread damage"
+48:31.8,Jaipur,Industrial Accident,"Industrial Accident hits Jaipur, causing widespread damage"
+02:51.9,Patna,Tsunami,"Patna battles Tsunami, hundreds affected"
+16:26.3,Jaipur,Heatwave,"Jaipur battles Heatwave, hundreds affected"
+14:27.6,Pune,Pandemic,"Pune battles Pandemic, hundreds affected"
+40:19.3,Delhi,Heatwave,"Heatwave wreaks havoc in Delhi, rescue efforts underway"
+19:13.9,Delhi,Landslide,Authorities respond to Landslide in Delhi
+33:57.3,Delhi,Cold wave,"Cold wave hits Delhi, causing widespread damage"
+48:18.3,Jaipur,Cyclone,"Cyclone hits Jaipur, causing widespread damage"
+54:11.9,Patna,Landslide,"Landslide hits Patna, causing widespread damage"
+46:37.6,Indore,Tsunami,Tsunami in Indore leaves thousands homeless
+11:55.3,Kolkata,Heatwave,Heatwave in Kolkata leaves thousands homeless
+46:52.9,Mumbai,Pandemic,Pandemic in Mumbai leaves thousands homeless
+36:57.3,Nagpur,Heatwave,"Nagpur battles Heatwave, hundreds affected"
+32:48.6,Kolkata,Cold wave,"Cold wave wreaks havoc in Kolkata, rescue efforts underway"
+29:49.8,Chennai,Cold wave,"Cold wave wreaks havoc in Chennai, rescue efforts underway"
+31:03.8,Hyderabad,Drought,Drought in Hyderabad leaves thousands homeless
+53:45.7,Delhi,Flood,"Delhi battles Flood, hundreds affected"
+29:03.9,Patna,Drought,Drought in Patna leaves thousands homeless
+48:02.1,Nagpur,Wildfire,"Wildfire hits Nagpur, causing widespread damage"
+59:45.2,Nagpur,Cold wave,"Cold wave wreaks havoc in Nagpur, rescue efforts underway"
+49:08.0,Jaipur,Tsunami,"Tsunami hits Jaipur, causing widespread damage"
+47:08.3,Lucknow,Tsunami,"Lucknow battles Tsunami, hundreds affected"
+00:26.6,Pune,Wildfire,"Wildfire wreaks havoc in Pune, rescue efforts underway"
+14:59.2,Kolkata,Industrial Accident,"Industrial Accident wreaks havoc in Kolkata, rescue efforts underway"
+04:34.7,Bangalore,Landslide,Landslide in Bangalore leaves thousands homeless
+42:11.9,Indore,Industrial Accident,"Indore battles Industrial Accident, hundreds affected"
+51:58.3,Indore,Cold wave,"Indore battles Cold wave, hundreds affected"
+41:27.5,Indore,Cyclone,"Cyclone wreaks havoc in Indore, rescue efforts underway"
+42:50.0,Nagpur,Pandemic,"Pandemic hits Nagpur, causing widespread damage"
+05:06.0,Chennai,Drought,"Drought wreaks havoc in Chennai, rescue efforts underway"
+53:00.0,Delhi,Landslide,Authorities respond to Landslide in Delhi
+20:51.6,Mumbai,Pandemic,"Pandemic wreaks havoc in Mumbai, rescue efforts underway"
+12:27.3,Bangalore,Wildfire,Wildfire in Bangalore leaves thousands homeless
+33:13.6,Mumbai,Cyclone,Cyclone in Mumbai leaves thousands homeless
+19:21.9,Lucknow,Flood,"Flood wreaks havoc in Lucknow, rescue efforts underway"
+25:57.6,Jaipur,Cyclone,"Jaipur battles Cyclone, hundreds affected"
+17:12.7,Lucknow,Industrial Accident,"Industrial Accident wreaks havoc in Lucknow, rescue efforts underway"
+24:39.1,Patna,Heatwave,"Heatwave wreaks havoc in Patna, rescue efforts underway"
+04:54.3,Chennai,Pandemic,Authorities respond to Pandemic in Chennai
+40:48.4,Pune,Landslide,Authorities respond to Landslide in Pune
+55:27.2,Lucknow,Tsunami,Tsunami in Lucknow leaves thousands homeless
+52:24.7,Pune,Tsunami,"Tsunami hits Pune, causing widespread damage"
+11:35.1,Kolkata,Tsunami,Tsunami in Kolkata leaves thousands homeless
+37:26.5,Patna,Tsunami,Authorities respond to Tsunami in Patna
+49:53.5,Bangalore,Wildfire,"Wildfire hits Bangalore, causing widespread damage"
+53:26.8,Lucknow,Tsunami,"Tsunami wreaks havoc in Lucknow, rescue efforts underway"
+12:01.0,Mumbai,Drought,Drought in Mumbai leaves thousands homeless
+27:08.2,Kolkata,Wildfire,Wildfire in Kolkata leaves thousands homeless
+33:35.3,Jaipur,Earthquake,"Earthquake wreaks havoc in Jaipur, rescue efforts underway"
+19:21.2,Pune,Wildfire,"Wildfire hits Pune, causing widespread damage"
+55:38.6,Kolkata,Tsunami,Tsunami in Kolkata leaves thousands homeless
+45:13.7,Hyderabad,Pandemic,"Pandemic wreaks havoc in Hyderabad, rescue efforts underway"
+55:14.7,Mumbai,Industrial Accident,"Mumbai battles Industrial Accident, hundreds affected"
+03:46.3,Lucknow,Tsunami,"Tsunami wreaks havoc in Lucknow, rescue efforts underway"
+34:47.0,Kolkata,Flood,"Kolkata battles Flood, hundreds affected"
+47:42.5,Bangalore,Drought,Drought in Bangalore leaves thousands homeless
+26:20.9,Mumbai,Tsunami,"Tsunami wreaks havoc in Mumbai, rescue efforts underway"
+33:25.8,Patna,Landslide,Landslide in Patna leaves thousands homeless
+52:29.8,Delhi,Tsunami,"Delhi battles Tsunami, hundreds affected"
+37:07.0,Hyderabad,Heatwave,"Heatwave hits Hyderabad, causing widespread damage"
+27:11.0,Bangalore,Cold wave,Cold wave in Bangalore leaves thousands homeless
+07:56.3,Jaipur,Tsunami,Tsunami in Jaipur leaves thousands homeless
+47:09.0,Patna,Pandemic,"Pandemic wreaks havoc in Patna, rescue efforts underway"
+45:25.3,Ahmedabad,Cyclone,"Cyclone hits Ahmedabad, causing widespread damage"
+23:36.6,Ahmedabad,Pandemic,"Pandemic wreaks havoc in Ahmedabad, rescue efforts underway"
+51:55.8,Bangalore,Drought,"Drought hits Bangalore, causing widespread damage"
+22:17.1,Patna,Pandemic,Pandemic in Patna leaves thousands homeless
+39:37.4,Pune,Heatwave,"Heatwave wreaks havoc in Pune, rescue efforts underway"
+17:10.1,Delhi,Wildfire,"Wildfire wreaks havoc in Delhi, rescue efforts underway"
+12:11.8,Indore,Landslide,Authorities respond to Landslide in Indore
+20:15.8,Chennai,Cyclone,Cyclone in Chennai leaves thousands homeless
+13:47.0,Hyderabad,Cyclone,"Cyclone hits Hyderabad, causing widespread damage"
+48:03.0,Pune,Heatwave,Authorities respond to Heatwave in Pune
+47:56.2,Delhi,Heatwave,Heatwave in Delhi leaves thousands homeless
+47:52.6,Patna,Cyclone,"Cyclone hits Patna, causing widespread damage"
+11:06.5,Jaipur,Cold wave,"Cold wave wreaks havoc in Jaipur, rescue efforts underway"
+50:54.0,Pune,Industrial Accident,"Industrial Accident wreaks havoc in Pune, rescue efforts underway"
+59:46.4,Ahmedabad,Pandemic,Pandemic in Ahmedabad leaves thousands homeless
+45:24.0,Pune,Landslide,Landslide in Pune leaves thousands homeless
+13:38.2,Ahmedabad,Tsunami,"Ahmedabad battles Tsunami, hundreds affected"
+13:13.6,Nagpur,Cyclone,"Nagpur battles Cyclone, hundreds affected"
+52:27.3,Bangalore,Earthquake,Earthquake in Bangalore leaves thousands homeless
+10:41.7,Kolkata,Cyclone,Cyclone in Kolkata leaves thousands homeless
+39:04.2,Lucknow,Landslide,Landslide in Lucknow leaves thousands homeless
+08:39.4,Bangalore,Landslide,"Landslide wreaks havoc in Bangalore, rescue efforts underway"
+24:24.0,Hyderabad,Drought,"Drought hits Hyderabad, causing widespread damage"
+45:07.7,Hyderabad,Earthquake,"Hyderabad battles Earthquake, hundreds affected"
+36:58.8,Kolkata,Flood,"Flood wreaks havoc in Kolkata, rescue efforts underway"
+26:15.2,Indore,Heatwave,"Heatwave wreaks havoc in Indore, rescue efforts underway"
+31:28.7,Jaipur,Tsunami,"Tsunami hits Jaipur, causing widespread damage"
+20:13.7,Delhi,Earthquake,"Earthquake wreaks havoc in Delhi, rescue efforts underway"
+24:20.2,Nagpur,Cold wave,"Nagpur battles Cold wave, hundreds affected"
+08:23.1,Hyderabad,Heatwave,"Heatwave hits Hyderabad, causing widespread damage"
+35:45.1,Lucknow,Flood,"Flood hits Lucknow, causing widespread damage"
+28:54.1,Delhi,Cyclone,"Cyclone hits Delhi, causing widespread damage"
+14:28.6,Bangalore,Drought,"Drought hits Bangalore, causing widespread damage"
+19:05.1,Kolkata,Wildfire,"Wildfire hits Kolkata, causing widespread damage"
+51:06.3,Bangalore,Wildfire,"Wildfire hits Bangalore, causing widespread damage"
+14:36.0,Mumbai,Drought,Drought in Mumbai leaves thousands homeless
+21:35.9,Pune,Pandemic,Pandemic in Pune leaves thousands homeless
+00:51.4,Kolkata,Landslide,"Landslide wreaks havoc in Kolkata, rescue efforts underway"
+19:02.5,Nagpur,Wildfire,"Nagpur battles Wildfire, hundreds affected"
+12:59.0,Patna,Landslide,"Landslide hits Patna, causing widespread damage"
+04:20.4,Bangalore,Tsunami,"Tsunami wreaks havoc in Bangalore, rescue efforts underway"
+32:14.1,Mumbai,Industrial Accident,"Mumbai battles Industrial Accident, hundreds affected"
+02:17.4,Patna,Cold wave,"Patna battles Cold wave, hundreds affected"
+10:50.9,Kolkata,Industrial Accident,"Industrial Accident wreaks havoc in Kolkata, rescue efforts underway"
+41:49.0,Jaipur,Wildfire,"Wildfire wreaks havoc in Jaipur, rescue efforts underway"
+57:43.1,Indore,Cyclone,"Cyclone wreaks havoc in Indore, rescue efforts underway"
+53:14.2,Chennai,Tsunami,"Tsunami wreaks havoc in Chennai, rescue efforts underway"
+32:00.3,Patna,Cold wave,Cold wave in Patna leaves thousands homeless
+37:39.1,Jaipur,Landslide,"Landslide wreaks havoc in Jaipur, rescue efforts underway"
+15:08.6,Lucknow,Earthquake,"Earthquake wreaks havoc in Lucknow, rescue efforts underway"
+17:45.7,Hyderabad,Heatwave,"Hyderabad battles Heatwave, hundreds affected"
+11:29.9,Kolkata,Flood,"Flood hits Kolkata, causing widespread damage"
+30:18.9,Chennai,Heatwave,"Heatwave hits Chennai, causing widespread damage"
+31:27.8,Patna,Cold wave,Authorities respond to Cold wave in Patna
+52:17.2,Hyderabad,Tsunami,Tsunami in Hyderabad leaves thousands homeless
+49:34.7,Patna,Tsunami,"Patna battles Tsunami, hundreds affected"
+35:39.0,Ahmedabad,Drought,"Ahmedabad battles Drought, hundreds affected"
+24:34.5,Pune,Wildfire,"Wildfire wreaks havoc in Pune, rescue efforts underway"
+36:35.8,Mumbai,Heatwave,"Mumbai battles Heatwave, hundreds affected"
+27:02.4,Delhi,Landslide,"Landslide wreaks havoc in Delhi, rescue efforts underway"
+22:00.6,Hyderabad,Landslide,"Hyderabad battles Landslide, hundreds affected"
+35:14.0,Indore,Cyclone,"Cyclone hits Indore, causing widespread damage"
+29:33.7,Patna,Heatwave,"Patna battles Heatwave, hundreds affected"
+51:59.8,Nagpur,Heatwave,"Heatwave hits Nagpur, causing widespread damage"
+13:06.3,Lucknow,Tsunami,"Tsunami wreaks havoc in Lucknow, rescue efforts underway"
+12:49.5,Chennai,Cyclone,"Cyclone hits Chennai, causing widespread damage"
+30:46.1,Pune,Industrial Accident,Industrial Accident in Pune leaves thousands homeless
+58:15.4,Delhi,Drought,Authorities respond to Drought in Delhi
+35:57.7,Kolkata,Heatwave,"Heatwave wreaks havoc in Kolkata, rescue efforts underway"
+34:42.8,Patna,Flood,"Patna battles Flood, hundreds affected"
+11:57.6,Lucknow,Wildfire,Wildfire in Lucknow leaves thousands homeless
+12:09.8,Pune,Pandemic,"Pandemic hits Pune, causing widespread damage"
+51:13.6,Indore,Landslide,Authorities respond to Landslide in Indore
+40:59.3,Kolkata,Drought,Drought in Kolkata leaves thousands homeless
+03:04.6,Bangalore,Industrial Accident,"Bangalore battles Industrial Accident, hundreds affected"
+13:04.3,Indore,Flood,Authorities respond to Flood in Indore
+37:40.2,Hyderabad,Cyclone,"Cyclone hits Hyderabad, causing widespread damage"
+33:05.3,Hyderabad,Drought,"Hyderabad battles Drought, hundreds affected"
+13:31.4,Lucknow,Cold wave,"Cold wave hits Lucknow, causing widespread damage"
+40:16.0,Delhi,Earthquake,"Delhi battles Earthquake, hundreds affected"
+29:15.4,Indore,Flood,Flood in Indore leaves thousands homeless
+57:41.7,Bangalore,Earthquake,"Earthquake hits Bangalore, causing widespread damage"
+00:32.0,Delhi,Cyclone,"Cyclone hits Delhi, causing widespread damage"
+17:25.0,Pune,Pandemic,"Pandemic hits Pune, causing widespread damage"
+10:21.2,Bangalore,Landslide,Authorities respond to Landslide in Bangalore
+31:49.9,Nagpur,Pandemic,Pandemic in Nagpur leaves thousands homeless
+17:52.3,Kolkata,Industrial Accident,"Industrial Accident hits Kolkata, causing widespread damage"
+59:30.7,Patna,Drought,"Patna battles Drought, hundreds affected"
+34:15.3,Indore,Wildfire,"Indore battles Wildfire, hundreds affected"
+34:59.0,Chennai,Cyclone,Authorities respond to Cyclone in Chennai
+17:58.1,Ahmedabad,Heatwave,"Heatwave wreaks havoc in Ahmedabad, rescue efforts underway"
+58:11.8,Patna,Industrial Accident,"Patna battles Industrial Accident, hundreds affected"
+22:34.3,Ahmedabad,Heatwave,"Heatwave wreaks havoc in Ahmedabad, rescue efforts underway"
+09:53.2,Jaipur,Industrial Accident,Authorities respond to Industrial Accident in Jaipur
+07:36.2,Mumbai,Drought,"Drought wreaks havoc in Mumbai, rescue efforts underway"
+09:35.0,Indore,Wildfire,Wildfire in Indore leaves thousands homeless
+44:19.8,Nagpur,Flood,Flood in Nagpur leaves thousands homeless
+48:48.5,Mumbai,Flood,Authorities respond to Flood in Mumbai
+03:38.0,Lucknow,Earthquake,"Earthquake wreaks havoc in Lucknow, rescue efforts underway"
+37:58.0,Delhi,Pandemic,"Pandemic hits Delhi, causing widespread damage"
+24:10.3,Hyderabad,Earthquake,"Hyderabad battles Earthquake, hundreds affected"
+24:24.9,Indore,Drought,"Indore battles Drought, hundreds affected"
+56:39.3,Jaipur,Landslide,"Jaipur battles Landslide, hundreds affected"
+40:10.8,Chennai,Cyclone,"Cyclone wreaks havoc in Chennai, rescue efforts underway"
+53:12.8,Ahmedabad,Heatwave,Authorities respond to Heatwave in Ahmedabad
+00:47.3,Bangalore,Cyclone,Authorities respond to Cyclone in Bangalore
+44:28.2,Mumbai,Flood,Flood in Mumbai leaves thousands homeless
+50:10.2,Ahmedabad,Landslide,"Landslide hits Ahmedabad, causing widespread damage"
+30:36.1,Lucknow,Earthquake,"Earthquake wreaks havoc in Lucknow, rescue efforts underway"
+46:38.0,Kolkata,Earthquake,"Earthquake wreaks havoc in Kolkata, rescue efforts underway"
+43:36.0,Bangalore,Landslide,"Landslide wreaks havoc in Bangalore, rescue efforts underway"
+49:19.6,Chennai,Drought,Authorities respond to Drought in Chennai
+34:03.5,Delhi,Flood,"Flood wreaks havoc in Delhi, rescue efforts underway"
+14:41.6,Delhi,Cyclone,"Cyclone hits Delhi, causing widespread damage"
+10:21.7,Patna,Drought,"Drought wreaks havoc in Patna, rescue efforts underway"
+03:47.0,Patna,Pandemic,"Pandemic wreaks havoc in Patna, rescue efforts underway"
+36:49.8,Ahmedabad,Cold wave,"Cold wave wreaks havoc in Ahmedabad, rescue efforts underway"
+58:37.4,Ahmedabad,Heatwave,"Heatwave hits Ahmedabad, causing widespread damage"
+02:10.4,Hyderabad,Cyclone,Cyclone in Hyderabad leaves thousands homeless
+19:20.6,Lucknow,Earthquake,"Earthquake wreaks havoc in Lucknow, rescue efforts underway"
+37:35.3,Indore,Flood,Flood in Indore leaves thousands homeless
+29:10.9,Bangalore,Wildfire,Wildfire in Bangalore leaves thousands homeless
+06:20.1,Patna,Industrial Accident,"Industrial Accident wreaks havoc in Patna, rescue efforts underway"
+15:33.3,Lucknow,Tsunami,"Tsunami wreaks havoc in Lucknow, rescue efforts underway"
+06:52.1,Patna,Drought,Drought in Patna leaves thousands homeless
+21:33.0,Jaipur,Cold wave,"Cold wave hits Jaipur, causing widespread damage"
+12:20.4,Delhi,Cyclone,"Delhi battles Cyclone, hundreds affected"
+59:25.0,Nagpur,Landslide,"Nagpur battles Landslide, hundreds affected"
+57:09.7,Nagpur,Tsunami,Tsunami in Nagpur leaves thousands homeless
+53:00.7,Lucknow,Pandemic,Authorities respond to Pandemic in Lucknow

@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+    <style>
+        header {
+            background-color: #343a40;
+            color: #f8f9fa;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .header-content {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 10px;
+        }
+        .saffron {
+            background-color: #FF9933;
+            height: 10px;
+            flex: 1;
+        }
+        .white {
+            flex: 1;
+            text-align: center;
+        }
+        .green {
+            background-color: #138808;
+            height: 10px;
+            flex: 1;
+        }
+        .white h1 {
+            font-size: 2.5rem;
+            font-weight: 300;
+            margin: 0;
+            color: #f8f9fa;
+        }
+        .white h1 {
+            margin: 0;
+            font-size: 2rem;
+            color: white;
+        }
+        nav {
+            margin-top: 10px;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            padding: 20px;
+            text-align: center;
+        }
+        form {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        form input, form textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 1rem;
+        }
+        form button {
+            padding: 10px 20px;
+            border: none;
+            background-color: #138808;
+            color: #fff;
+            font-size: 1rem;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        form button:hover {
+            background-color: #0f6a02;
+        }
+        #statusMessage {
+            margin-top: 20px;
+            font-weight: bold;
+            color: green;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <div class="header-content">
+        <div class="saffron"></div>
+        <div class="white">
+            <h1>Ranbhoomi Suraksha</h1>
+        </div>
+        <div class="green"></div>
+    </div>
+    <nav>
+        <a href="index.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="disasters.html">Disaster Updates</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+</header>
+<div class="container">
+    <h1>Contact Us</h1>
+    <form id="contactForm" action="/submit-form" method="post">
+        <input type="text" name="name" placeholder="Your Name" required>
+        <input type="email" name="email" placeholder="Your Email" required>
+        <input type="tel" name="phone" placeholder="Your Phone Number" required>
+        <input type="text" name="location" placeholder="Your Location" required>
+        <input type="text" name="emergencyType" placeholder="Type of Emergency" required>
+        <textarea name="emergencyDetails" placeholder="Emergency Details" rows="4" required></textarea>
+        <button type="submit">Send Message</button>
+    </form>
+    <p id="statusMessage"></p>
+</div>
+
+<script>
+    document.getElementById('contactForm').addEventListener('submit', function(event) {
+        event.preventDefault();
+        const statusMessage = document.getElementById('statusMessage');
+        statusMessage.textContent = 'Successfully sent! ';
+    });
+</script>
+</body>
+</html>

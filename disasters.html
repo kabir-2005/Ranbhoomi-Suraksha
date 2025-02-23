@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ranbhoomi Suraksha - Disaster Updates</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url('https://st.adda247.com/https://currentaffairs.adda247.com/wp-content/uploads/multisite/sites/5/2022/04/10091029/Mount_Everest_as_seen_from_Drukair2_PLW_edit-scaled.jpg');
+            background-size: cover; /* Ensures the image covers the whole background */
+            background-repeat: no-repeat; /* Prevents the image from repeating */
+            background-attachment: fixed; /* Keeps the image fixed when scrolling */
+            color: #343a40;
+        }
+        header {
+            background-color: rgba(52, 58, 64, 0.8); /* Adds a semi-transparent background */
+            color: #f8f9fa;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .header-content {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 10px;
+        }
+        .saffron {
+            background-color: #FF9933;
+            height: 10px;
+            flex: 1;
+        }
+        .white {
+            flex: 1;
+            text-align: center;
+        }
+        .green {
+            background-color: #138808;
+            height: 10px;
+            flex: 1;
+        }
+        .white h1 {
+            font-size: 2.5rem;
+            font-weight: 300;
+            margin: 0;
+            color: #f8f9fa;
+        }
+        nav {
+            margin-top: 10px;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.2rem;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            padding: 20px;
+            text-align: center;
+            max-width: 800px;
+            margin: 20px auto;
+        }
+        input, button {
+            margin: 10px;
+            padding: 10px;
+        }
+        .update-item {
+            margin: 10px auto;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            max-width: 600px;
+            text-align: left;
+            background-color: #f9f9f9; /* Light background color for boxes */
+            color: #333; /* Dark text color for readability */
+        }
+        .update-item:nth-child(odd) {
+            background-color: #e6f7ff; /* Light blue background for odd items */
+        }
+        .update-item:nth-child(even) {
+            background-color: #ffffcc; /* Light yellow background for even items */
+        }
+        .placeholder-message {
+            font-size: 1.2rem;
+            color: #666;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="saffron"></div>
+            <div class="white">
+                <h1>Ranbhoomi Suraksha</h1>
+            </div>
+            <div class="green"></div>
+        </div>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="about.html">About</a>
+            <a href="disasters.html">Disaster Updates</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    <main class="container">
+        <h1>Disaster Updates</h1>
+        <input type="text" id="locationInput" placeholder="Enter location">
+        <button id="searchButton">Search</button>
+        <div id="updatesContainer" class="placeholder-message">
+            <p>Search locations to view disaster updates.</p>
+        </div>
+    </main>
+    <script>
+        document.getElementById('searchButton').addEventListener('click', function() {
+            const query = document.getElementById('locationInput').value;
+            fetch(`http://localhost:8081/disasters?location=${encodeURIComponent(query)}`)
+                .then(response => response.json())
+                .then(data => {
+                    const updatesContainer = document.getElementById('updatesContainer');
+                    updatesContainer.innerHTML = '';
+                    if (data.length === 0) {
+                        updatesContainer.innerHTML = '<p>No updates found.</p>';
+                    } else {
+                        data.forEach(disaster => {
+                            const disasterItem = document.createElement('div');
+                            disasterItem.classList.add('update-item');
+                            disasterItem.innerHTML = `
+                                <h2>${disaster.headline}</h2>
+                                <p><strong>Location:</strong> ${disaster.location}</p>
+                                <p><strong>Type:</strong> ${disaster.disaster_type}</p>
+                            `;
+                            updatesContainer.appendChild(disasterItem);
+                        });
+                    }
+                })
+                .catch(error => console.error('Fetch error:', error));
+        });
+    </script>
+</body>
+</html>
